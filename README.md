@@ -197,7 +197,7 @@ page.open('http://www.effectgames.com/demos/canvascycle/?sound=0', function(stat
 });
 ```
 
-## Create a gif using built in HTML5 webcam 
+### Create a gif using built in HTML5 webcam 
 
 with [gifie](https://github.com/eirikb/gifie). [Demo](http://eirikb.github.io/gifie/).
 
