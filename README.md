@@ -27,20 +27,20 @@
 
 ### Frames to gif 
 
-```
+```bash
 ffmpeg -f image2 -i image%d.jpg animated.gif
 ```
 
-```
+```bash
 convert   -delay 20   -loop 0   frames*.png   animated.gif
 ```
 
 ### Gif to frames
 
-```
+```bash
 ffmpeg -i video.mpg image%d.jpg
 ```
-```
+```bash
 convert -coalesce animated.gif image%05d.png
 ```
 
@@ -48,7 +48,7 @@ convert -coalesce animated.gif image%05d.png
 
 - Generate a palette :
 
-```
+```bash
 #!/bin/sh
 start_time=30
 duration=3
@@ -57,13 +57,14 @@ ffmpeg -y -ss $start_time -t $duration -i input.avi \
 ```
 - Output the GIF using the palette :
 
-```
+```bash
 #!/bin/sh
 start_time=30
 duration=3
 ffmpeg -ss $start_time -t $duration -i input.avi -i palette.png -filter_complex \
 "fps=10,scale=320:-1:flags=lanczos[x];[x][1:v]paletteuse" output.gif
 ```
+[article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
 ### Optimize Gif 
 
@@ -73,7 +74,7 @@ convert -layers Optimize output.gif output_optimized.gif
 
 ### Lossy GIF Compressor 
 
-```
+```bash
 ./gifsicle -O3 --lossy=80 -o lossy-compressed.gif input.gif
 
 ```
