@@ -11,6 +11,7 @@
 
 ## GUI
 - [Glyph](http://www.glyph.video/) - *using MoviePy*
+- [Qgifer](http://sourceforge.net/projects/qgifer/) 
 
 ## Hosting
 - [Gfycat](http://gfycat.com) - *Maximum gif/video length: 15 seconds.  Maximum file upload is 300Mb*
