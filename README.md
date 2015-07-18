@@ -170,30 +170,30 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 using [PhantomJS](http://phantomjs.org/)
 
+Example with this [canvas](http://www.effectgames.com/demos/canvascycle/?sound=0).
+
 ```javascript
 var webPage = require('webpage');
 var fs = require('fs');
 var page = webPage.create();
 
-var MAX_FRAMES = 100;
+var NB_FRAME = 100;
 var current = 0;
 
-page.open('http://www.effectgames.com/demos/canvascycle/?sound=0', function(status) {
+page.open('http://www.effectgames.com/demos/canvascycle/?sound=0',
+function(status) {
   if (status === "success") {
-
-      for(i=0; i < MAX_FRAMES; i++){
-        setTimeout(function(){
+      var current = 0;
+      var grabber = setInterval(function () {
           var frame = page.evaluate(function() {
            return document.getElementById('mycanvas').toDataURL("image/png").split(",")[1];
           });
           fs.write("./frame-" + current + ".png",atob(frame), 'wb');
-          current++;
-        },1000+200*i);
+      if (++current === NB_FRAME) {
+         window.clearInterval(grabber);
+         phantom.exit(0);
       }
-      setTimeout(function() {
-        phantom.exit();
-      }, 1000*200*MAX_FRAMES);
-
+    }, 1000);
   }
 });
 ```
