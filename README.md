@@ -61,7 +61,7 @@ Inspired by awesome-... stuff.
 - [Gifline](https://github.com/zehfernandes/gifline) - *Chrome extension to put GIFs in your emails*
 - [Gifdrop](https://github.com/markjaquith/gifdrop) - *Create a repository for your collection of gif images*
 - [Gh-gif](https://github.com/node-gh/gh-gif) - *NodeGH plugin for commenting on pull requests/issues using GIF reactions*
-- [tty2gif](https://github.com/z24/tty2gif) - *record scripts and their outputs into both binary and gif formats*
+- [Tty2gif](https://github.com/z24/tty2gif) - *record scripts and their outputs into both binary and gif formats*
 - [Giftoppr](https://github.com/desktoppr/giftoppr) - *Sync your favourite gifs with Dropbox*
 - [Gifit](https://github.com/Fauntleroy/GIFit) - *Chrome extension to make a GIF from a YouTube video*
 
@@ -72,7 +72,7 @@ Inspired by awesome-... stuff.
 ### C++
 - [Node-gif](https://github.com/pkrumins/node-gif) - *C++ library to make Gif*
 - [Gif-h](https://github.com/ginsweater/gif-h) - *C++ one-header library for the creation of animated GIFs*
-- [ofxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - *C++ openframeworks addon to export animated gifs*
+- [OfxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - *C++ openframeworks addon to export animated gifs*
 
 ### C\# 
  
@@ -105,7 +105,7 @@ Inspired by awesome-... stuff.
 
 ### PHP
 - [GifCreator](https://github.com/Sybio/GifCreator) - *PHP class that creates animated GIF from multiple images*
-- [spacer.gif](https://github.com/msng/spacer.gif) - *PHP script offering spacer.gif 1x1*
+- [Spacer.gif](https://github.com/msng/spacer.gif) - *PHP script offering spacer.gif 1x1*
 - [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - *PHP class that separates all the frames of an animated GIF*
 
 ### Objective-C
@@ -124,7 +124,7 @@ Inspired by awesome-... stuff.
 - [OLImageView](https://github.com/dtorres/OLImageView) - *iOS OLImage and OLImageView support for animated GIFs*
 
 ### Swift
-- [gifu](https://github.com/kaishin/gifu) - *animated GIF support for iOS in Swift*
+- [Gifu](https://github.com/kaishin/gifu) - *animated GIF support for iOS in Swift*
 - [SwiftGif](https://github.com/bahlo/SwiftGif) - *UIImage extension with gif support*
 
 
