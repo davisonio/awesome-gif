@@ -1,7 +1,7 @@
 # Awesome GIF
 
 
-## General Command-line Tools 
+## General Tools 
 - [FFmpeg](https://www.ffmpeg.org)
 - [ImageMagick](http://www.imagemagick.org/)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick is usually faster than ImageMagick*
@@ -15,17 +15,42 @@
 - [Gifshot](https://github.com/yahoo/gifshot) - *create animated GIFs from media by Yahoo* - [demo](http://yahoo.github.io/gifshot/)
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - *Real Time communication library using Animated Gifs as a transport*
 - [X-gif](https://github.com/geelen/x-gif) - *a web component for flexible GIF playback*
+- [gifme](https://github.com/holman/gifme) - *generate animated GIFs*
+- [GifW00t](https://github.com/yaronn/GifW00t) - *javascript web recorder*
+- [gif-machine](https://github.com/lelandbatey/gif-machine) - *gif creation from Youtube videos*
+- [gifstreaming](https://github.com/jbochi/gifstreaming) - *Live video streaming server*
+- [Screengif](https://github.com/dergachev/screengif) - *Create animated gif screencasts*
+- [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - *Serves screen updates as animated gif over http*
+
 
 ## Library
-- C++ [node-Gif](https://github.com/pkrumins/node-gif)
-- Javascript [Gif.js](https://github.com/jnordberg/gif.js) - *create GIF from the DOM*
-- Javascript [Omggif](https://github.com/deanm/omggif) - *GIF 89a encoder and decoder*
+- [Node-gif](https://github.com/pkrumins/node-gif) - C++
+- [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - *create GIF from the DOM*
+- [Omggif](https://github.com/deanm/omggif) - Javascript - *GIF 89a encoder and decoder*
+- [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - *decodes an UIImage from Animated GIFs image data*
+- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - *Views and Drawable for displaying animated GIFs on Android*
+- [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) - *Use an animated GIF as an Android Drawable*
+- [gifu](https://github.com/kaishin/gifu) - *animated GIF support for iOS in Swift*
+- [GifView](https://github.com/RoiSoleil/GifView) - *android library to deal with Gif*
+- [GifCreator](https://github.com/Sybio/GifCreator) - *PHP class that creates animated GIF from multiple images*
+- [Animated_GIF](https://github.com/sole/Animated_GIF) - *Javascript library for creating animated GIFs*
+- [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - *UIImage category that loads animated GIFs*
+- [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) - *https://github.com/sbakhtiarov/gif-movie-view*
+- [SwiftGif](https://github.com/bahlo/SwiftGif) - *UIImage extension with gif support*
+- [GifImageView](https://github.com/felipecsl/GifImageView) - *Android ImageView that handles animated GIF images*
+- [Gifffer](https://github.com/krasimir/gifffer) *JavaScript library that prevents the autoplaying of the animated Gifs*
+- [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - *"Twitter music" and "Yahoo! Weather" like pull-to-refresh control *
+- [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - *UIImageView category/subclass for playing GIF*
+- [gif-animation](https://github.com/extrapixel/gif-animation) - *Processing library to play and export GIF*
+- 
 
 
 ## GUI
 - [Glyph](http://www.glyph.video/) - *tool for generating seamlessly looping GIFs and cinemagraphs from videos*
 - [Qgifer](http://sourceforge.net/projects/qgifer/) 
 - [GIFs](https://github.com/orta/GIFs) - *Mac App for finding GIFs*
+- [VineGifR](https://github.com/esten/VineGifR) - *Mac app to turn Vine videos into gifs*
+- [GifPro](https://github.com/unixpickle/GifPro) - *Gif encoder for Mac*
 
 ## Hosting
 - [Gfycat](http://gfycat.com) - *Maximum gif/video length: 15 seconds.  Maximum file upload is 300Mb*
@@ -35,7 +60,8 @@
 - [Vid2gif](http://imgur.com/vidgif) by imgur
 - [EzGif](http://ezgif.com/)
 
-
+## 3rd party
+- [Starwars-dot-gif](https://github.com/LindseyB/starwars-dot-gif) - *Python script to generate gifs from star wars*
 
 
 ## Scripts
