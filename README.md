@@ -19,6 +19,7 @@
 ## Library
 - C++ [node-Gif](https://github.com/pkrumins/node-gif)
 - Javascript [Gif.js](https://github.com/jnordberg/gif.js) - *create GIF from the DOM*
+- Javascript [Omggif](https://github.com/deanm/omggif) - *GIF 89a encoder and decoder*
 
 
 ## GUI
