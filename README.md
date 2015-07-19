@@ -102,6 +102,7 @@
 - [VineGifR](https://github.com/esten/VineGifR) - *Mac app to turn Vine videos into gifs*
 - [GifPro](https://github.com/unixpickle/GifPro) - *Gif encoder for Mac*
 
+
 ## Hosting
 - [Gfycat](http://gfycat.com) - *Maximum gif/video length: 15 seconds.  Maximum file upload is 300Mb*
 - [Imgur](http://imgur.com) - *Maximum file upload is 50MB*
@@ -109,6 +110,15 @@
 ## Online tool
 - [Vid2gif](http://imgur.com/vidgif) by imgur
 - [EzGif](http://ezgif.com/)
+- 
+## Search for Gif 
+
+- [Giphy.com](http://gifphy.com) 
+- [Gifme.io](http://gifme.io) 
+- [9gag.com/gif](http://9gag.com/gif)
+- [Reactionsgifs](http://reactiongifs.com/)
+
+
 
 ## 3rd party
 - [Starwars-dot-gif](https://github.com/LindseyB/starwars-dot-gif) - *Python script to generate gifs from star wars*
