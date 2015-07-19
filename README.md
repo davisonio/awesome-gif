@@ -24,6 +24,7 @@
 ## GUI
 - [Glyph](http://www.glyph.video/) - *tool for generating seamlessly looping GIFs and cinemagraphs from videos*
 - [Qgifer](http://sourceforge.net/projects/qgifer/) 
+- [GIFs](https://github.com/orta/GIFs) - *Mac App for finding GIFs*
 
 ## Hosting
 - [Gfycat](http://gfycat.com) - *Maximum gif/video length: 15 seconds.  Maximum file upload is 300Mb*
