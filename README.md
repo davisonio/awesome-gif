@@ -1,13 +1,25 @@
 # Awesome GIF
 
 
-## Command-line Tools 
-- [ffmpeg](https://www.ffmpeg.org)
+## General Command-line Tools 
+- [FFmpeg](https://www.ffmpeg.org)
 - [ImageMagick](http://www.imagemagick.org/)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick is usually faster than ImageMagick*
-- [MoviePy](http://zulko.github.io/moviepy/)
-- [Gifsicle](https://github.com/pornel/giflossy)
-- [Gif.js](https://github.com/jnordberg/gif.js)
+- [MoviePy](http://zulko.github.io/moviepy/) - *Python module for video editing*
+
+
+## Utilities 
+- [Gifify](https://github.com/jclem/gifify) - *convert screen recording into GIF*
+- [Gifsicle](https://github.com/pornel/giflossy) - *lossy gif compressor*
+- [Gifs](https://github.com/jglovier/gifs) - *storage place for gifs* - [demo](http://gifs.joelglovier.com)
+- [Gifshot](https://github.com/yahoo/gifshot) - *create animated GIFs from media by Yahoo* - [demo](http://yahoo.github.io/gifshot/)
+- [Gifsockets](https://github.com/videlalvaro/gifsockets) - *Real Time communication library using Animated Gifs as a transport*
+
+
+## Library
+- C++ [node-Gif](https://github.com/pkrumins/node-gif)
+- Javascript [Gif.js](https://github.com/jnordberg/gif.js) - *create GIF from the DOM*
+
 
 ## GUI
 - [Glyph](http://www.glyph.video/) - *using MoviePy*
@@ -20,6 +32,7 @@
 ## Online tool
 - [Vid2gif](http://imgur.com/vidgif) by imgur
 - [EzGif](http://ezgif.com/)
+
 
 
 
