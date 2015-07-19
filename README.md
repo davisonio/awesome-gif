@@ -14,7 +14,7 @@
 - [Gifs](https://github.com/jglovier/gifs) - *storage place for gifs* - [demo](http://gifs.joelglovier.com)
 - [Gifshot](https://github.com/yahoo/gifshot) - *create animated GIFs from media by Yahoo* - [demo](http://yahoo.github.io/gifshot/)
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - *Real Time communication library using Animated Gifs as a transport*
-
+- [X-gif](https://github.com/geelen/x-gif) - *a web component for flexible GIF playback*
 
 ## Library
 - C++ [node-Gif](https://github.com/pkrumins/node-gif)
