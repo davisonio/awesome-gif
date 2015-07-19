@@ -210,6 +210,27 @@ clip.write_gif("output.gif", fps=15)
 ```
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#freezing-a-region)
 
+```bash
+ffmpeg \
+-ss ${starttime} -t ${duration} -i ${vidfile}                         `# body of loop` \
+-ss TODO ${starttime} MINUS ${duration} -t ${fadetime} -i ${vidfile}  `# lead-in for crossfade` \
+-loop 1 -i ${stillfile}                                               `# masked still image` \
+-filter_complex "
+  [0:v]setpts=PTS-STARTPTS[vid];                                      `# speed adjustment - not needed here, so noop`
+  color=white,scale=3840x2160,fade=in:st=0:d=${fadetime}[alpha];      `# crossfade alpha, double length ahead of speed change`
+  [1:v][alpha]alphamerge[am];                                         `# apply alpha to lead-in`
+  [am]setpts=PTS+(${duration}-${fadetime})/TB[layer2];                  `# speed adjustment and offset for lead-in`
+  [vid][layer2]overlay[oo];                                           `# overlay for crossfade`
+  [oo][2:v]overlay=shortest=1[out1];                                  `# overlay still image`
+  [out1]crop=w=${cropfactor}*iw:h=${cropfactor}*ih:y=${yoffset}*ih,scale=${outputwidth}:-1, `# crop and scale`
+  eq=gamma=${gamma}:contrast=${contrast}:saturation=${saturation},unsharp                   `# final adjustments`
+" -an output.mp4
+```
+by [Roger Barnes](https://bitbucket.org/snippets/rbarnesatl/6jRB)
+
+
+
+
 ### Perfect Loop
 
 ```python
@@ -300,9 +321,6 @@ function(status) {
 });
 ```
 
-### Create a gif using built in HTML5 webcam 
-
-with [gifie](https://github.com/eirikb/gifie). [Demo](http://eirikb.github.io/gifie/).
 
 
 ### Others thing
