@@ -112,7 +112,7 @@
 - [EzGif](http://ezgif.com/)
 
 
-## Search for Gif 
+## Search engine 
 
 - [Giphy.com](http://gifphy.com) 
 - [Gifme.io](http://gifme.io) 
