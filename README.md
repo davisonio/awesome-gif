@@ -22,7 +22,7 @@
 
 
 ## GUI
-- [Glyph](http://www.glyph.video/) - *using MoviePy*
+- [Glyph](http://www.glyph.video/) - *tool for generating seamlessly looping GIFs and cinemagraphs from videos*
 - [Qgifer](http://sourceforge.net/projects/qgifer/) 
 
 ## Hosting
