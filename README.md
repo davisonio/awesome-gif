@@ -26,6 +26,7 @@ Inspired by awesome-... stuff.
 	 - [High quality gif](#high-quality-gif)
 	 - [Optimize Gif](#optimize-gif)
 	 - [Lossy GIF Compressor](#lossy-gif-compressor)
+	 - [Making gif from video](#making-gif-from-video)
 	 - [Cinemagraphs](#cinemagraphs)
 	 - [Perfect Loop](#perfect-loop)
 	 - [Youtube video to Gif](#youtube-video-to-gif)
@@ -230,6 +231,8 @@ clip.write_gif("output.gif")
 
 ```
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#converting-a-video-excerpt-into-a-gif)
+
+
 
 ### Cinemagraphs 
 
