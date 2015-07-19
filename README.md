@@ -29,6 +29,7 @@
 - [Gh-gif](https://github.com/node-gh/gh-gif) - *NodeGH plugin for commenting on pull requests/issues using GIF reactions*
 - [tty2gif](https://github.com/z24/tty2gif) - *record scripts and their outputs into both binary and gif formats*
 - [Giftoppr](https://github.com/desktoppr/giftoppr) - *Sync your favourite gifs with Dropbox*
+- [Gifit](https://github.com/Fauntleroy/GIFit) - *Chrome extension to make a GIF from a YouTube video*
 
 ## Library
 - [Node-gif](https://github.com/pkrumins/node-gif) - C++
@@ -49,7 +50,7 @@
 - [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - *"Twitter music" and "Yahoo! Weather" like pull-to-refresh control *
 - [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - *UIImageView category/subclass for playing GIF*
 - [gif-animation](https://github.com/extrapixel/gif-animation) - *Processing library to play and export GIF*
-- [android-gif-encoder](https://github.com/nbadal/android-gif-encoder] - *animated GIF encoder for Android*
+- [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) - *animated GIF encoder for Android*
 - [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - *Gif engine for iOS by FlipBoard*
 - [GIFDroid](https://github.com/quackware/GIFDroid) - *Android video to GIF converter*
 - [Gifplayer](https://github.com/rubentd/gifplayer) - * jquery plugin to play and stop animated gifs*
@@ -65,7 +66,16 @@
 - [GifHUD](https://github.com/cemolcay/GiFHUD) - *iOS progress hud for displaying only animated gif images*
 - [Flash Animated Gif Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - *AS3 library for playing Animated GIFs in Flash*
 - [Video-Background GIF](https://github.com/ElvinJin/Video-Background-GIF) - *iOS Video Background GIF*
-- 
+- [node-gify](https://github.com/tj/node-gify) - *Javascript convert videos to gifs using ffmpeg and gifsicle*
+- [Gifencoder](https://github.com/eugeneware/gifencoder) - *Server side animated gif generation for node.js*
+- [Android-GifStitch](https://github.com/CaptPhunkosis/Android-GifStitch) - *create and share animated gifs*
+- [AnimatedGifExample](https://github.com/kasatani/AnimatedGifExample) - *iOS animated and transparent gifs*
+- [gif-video](https://github.com/hughsk/gif-video) - *Javascript Convert a GIF image into an HTML5-ready video*
+- [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - *A simple library to display animated GIF images in WPF*
+- [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - *A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)*
+- [Gif-player](https://github.com/apankrat/gif-player) - *On-demand GIF loader/player in Javascript*
+- [OLImageView](https://github.com/dtorres/OLImageView) - *iOS OLImage and OLImageView support for animated GIFs*
+
 
 ## GUI
 - [Glyph](http://www.glyph.video/) - *tool for generating seamlessly looping GIFs and cinemagraphs from videos*
