@@ -110,7 +110,8 @@
 ## Online tool
 - [Vid2gif](http://imgur.com/vidgif) by imgur
 - [EzGif](http://ezgif.com/)
-- 
+
+
 ## Search for Gif 
 
 - [Giphy.com](http://gifphy.com) 
