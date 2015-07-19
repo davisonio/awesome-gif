@@ -106,7 +106,7 @@ Inspired by awesome-... stuff.
 ### PHP
 - [GifCreator](https://github.com/Sybio/GifCreator) - *PHP class that creates animated GIF from multiple images*
 - [spacer.gif](https://github.com/msng/spacer.gif) - *PHP script offering spacer.gif 1x1*
-- [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - * PHP class that separates all the frames (and their duration) of an animated GIF*
+- [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - *PHP class that separates all the frames of an animated GIF*
 
 ### Objective-C
 - [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - *decodes an UIImage from Animated GIFs image data*
