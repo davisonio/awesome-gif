@@ -32,49 +32,67 @@
 - [Gifit](https://github.com/Fauntleroy/GIFit) - *Chrome extension to make a GIF from a YouTube video*
 
 ## Library
-- [Node-gif](https://github.com/pkrumins/node-gif) - C++
-- [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - *create GIF from the DOM*
-- [Omggif](https://github.com/deanm/omggif) - Javascript - *GIF 89a encoder and decoder*
-- [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - *decodes an UIImage from Animated GIFs image data*
-- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - *Views and Drawable for displaying animated GIFs on Android*
-- [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) - *Use an animated GIF as an Android Drawable*
-- [gifu](https://github.com/kaishin/gifu) - *animated GIF support for iOS in Swift*
-- [GifView](https://github.com/RoiSoleil/GifView) - *android library to deal with Gif*
-- [GifCreator](https://github.com/Sybio/GifCreator) - *PHP class that creates animated GIF from multiple images*
-- [Animated_GIF](https://github.com/sole/Animated_GIF) - *Javascript library for creating animated GIFs*
-- [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - *UIImage category that loads animated GIFs*
-- [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) - *https://github.com/sbakhtiarov/gif-movie-view*
-- [SwiftGif](https://github.com/bahlo/SwiftGif) - *UIImage extension with gif support*
-- [GifImageView](https://github.com/felipecsl/GifImageView) - *Android ImageView that handles animated GIF images*
-- [Gifffer](https://github.com/krasimir/gifffer) *JavaScript library that prevents the autoplaying of the animated Gifs*
-- [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - *"Twitter music" and "Yahoo! Weather" like pull-to-refresh control *
-- [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - *UIImageView category/subclass for playing GIF*
-- [gif-animation](https://github.com/extrapixel/gif-animation) - *Processing library to play and export GIF*
-- [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) - *animated GIF encoder for Android*
-- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - *Gif engine for iOS by FlipBoard*
-- [GIFDroid](https://github.com/quackware/GIFDroid) - *Android video to GIF converter*
-- [Gifplayer](https://github.com/rubentd/gifplayer) - * jquery plugin to play and stop animated gifs*
-- [spacer.gif](https://github.com/msng/spacer.gif) - *PHP script offering spacer.gif 1x1*
-- [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - * PHP class that separates all the frames (and their duration) of an animated GIF*
-- [Animated-GIF-iPhone](https://github.com/arturogutierrez/Animated-GIF-iPhone) - *Support for Animated GIF on iOS*
-- [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - *PullToRefresh using animated GIF to any scrollView*
+### ActionScript
+- [Flash Animated Gif Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - *AS3 library for playing Animated GIFs in Flash*
+
+### C++
+- [Node-gif](https://github.com/pkrumins/node-gif) - *C++ library to make Gif*
 - [Gif-h](https://github.com/ginsweater/gif-h) - *C++ one-header library for the creation of animated GIFs*
 - [ofxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - *C++ openframeworks addon to export animated gifs*
-- [iOS AnimatedGif](https://github.com/scspijker/iOS_AnimatedGif) - *Animated GIF library for iPhone*
-- [SvGifView](https://github.com/smileEvday/SvGifView) - *iOS load and display Gif*
-- [Jsgif](https://github.com/shachaf/jsgif) - *JavaScript GIF parser and player*
-- [GifHUD](https://github.com/cemolcay/GiFHUD) - *iOS progress hud for displaying only animated gif images*
-- [Flash Animated Gif Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - *AS3 library for playing Animated GIFs in Flash*
-- [Video-Background GIF](https://github.com/ElvinJin/Video-Background-GIF) - *iOS Video Background GIF*
-- [node-gify](https://github.com/tj/node-gify) - *Javascript convert videos to gifs using ffmpeg and gifsicle*
-- [Gifencoder](https://github.com/eugeneware/gifencoder) - *Server side animated gif generation for node.js*
-- [Android-GifStitch](https://github.com/CaptPhunkosis/Android-GifStitch) - *create and share animated gifs*
-- [AnimatedGifExample](https://github.com/kasatani/AnimatedGifExample) - *iOS animated and transparent gifs*
-- [gif-video](https://github.com/hughsk/gif-video) - *Javascript Convert a GIF image into an HTML5-ready video*
+
+### C\# 
+ 
 - [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - *A simple library to display animated GIF images in WPF*
 - [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - *A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)*
+
+### Java
+
+- [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - *Views and Drawable for displaying animated GIFs on Android*
+- [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) - *Use an animated GIF as an Android Drawable*
+- [GifView](https://github.com/RoiSoleil/GifView) - *android library to deal with Gif*
+- [Gif Movie View](https://github.com/sbakhtiarov/gif-movie-view) - *Android View widget for displaying GIF animations*
+- [GifImageView](https://github.com/felipecsl/GifImageView) - *Android ImageView that handles animated GIF images*
+- [Gif-animation](https://github.com/extrapixel/gif-animation) - *Processing library to play and export GIF*
+- [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) - *animated GIF encoder for Android*
+- [GIFDroid](https://github.com/quackware/GIFDroid) - *Android video to GIF converter*
+- [Android-GifStitch](https://github.com/CaptPhunkosis/Android-GifStitch) - *create and share animated gifs*
+
+### Javascript
+- [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - *create GIF from the DOM*
+- [Omggif](https://github.com/deanm/omggif) - Javascript - *GIF 89a encoder and decoder*
+- [Animated_GIF](https://github.com/sole/Animated_GIF) - *Javascript library for creating animated GIFs*
+- [Gifffer](https://github.com/krasimir/gifffer) *JavaScript library that prevents the autoplaying of the animated Gifs*
+- [Gifplayer](https://github.com/rubentd/gifplayer) - *jquery plugin to play and stop animated gifs*
+- [Jsgif](https://github.com/shachaf/jsgif) - *JavaScript GIF parser and player*
+- [node-gify](https://github.com/tj/node-gify) - *Javascript convert videos to gifs using ffmpeg and gifsicle*
+- [Gifencoder](https://github.com/eugeneware/gifencoder) - *Server side animated gif generation for node.js*
+- [Gif-video](https://github.com/hughsk/gif-video) - *Javascript Convert a GIF image into an HTML5-ready video*
 - [Gif-player](https://github.com/apankrat/gif-player) - *On-demand GIF loader/player in Javascript*
+
+### PHP
+- [GifCreator](https://github.com/Sybio/GifCreator) - *PHP class that creates animated GIF from multiple images*
+- [spacer.gif](https://github.com/msng/spacer.gif) - *PHP script offering spacer.gif 1x1*
+- [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - * PHP class that separates all the frames (and their duration) of an animated GIF*
+
+### Objective-C
+- [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - *decodes an UIImage from Animated GIFs image data*
+- [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - *UIImage category that loads animated GIFs*
+- [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - *"Twitter music" and "Yahoo! Weather" like pull-to-refresh control*
+- [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - *UIImageView category/subclass for playing GIF*
+- [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - *Gif engine for iOS by FlipBoard*
+- [Animated-GIF-iPhone](https://github.com/arturogutierrez/Animated-GIF-iPhone) - *Support for Animated GIF on iOS*
+- [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - *PullToRefresh using animated GIF to any scrollView*
+- [iOS AnimatedGif](https://github.com/scspijker/iOS_AnimatedGif) - *Animated GIF library for iPhone*
+- [SvGifView](https://github.com/smileEvday/SvGifView) - *iOS load and display Gif*
+- [GifHUD](https://github.com/cemolcay/GiFHUD) - *iOS progress hud for displaying only animated gif images*
+- [Video-Background GIF](https://github.com/ElvinJin/Video-Background-GIF) - *iOS Video Background GIF*
+- [AnimatedGifExample](https://github.com/kasatani/AnimatedGifExample) - *iOS animated and transparent gifs*
 - [OLImageView](https://github.com/dtorres/OLImageView) - *iOS OLImage and OLImageView support for animated GIFs*
+
+### Swift
+- [gifu](https://github.com/kaishin/gifu) - *animated GIF support for iOS in Swift*
+- [SwiftGif](https://github.com/bahlo/SwiftGif) - *UIImage extension with gif support*
+
 
 
 ## GUI
