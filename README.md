@@ -1,5 +1,38 @@
 # Awesome GIF
 
+A curated list of awesome gif tools and scripts : libraries, utilities, and short examples.
+Inspired by awesome-... stuff.
+
+- [Awesome GIF](#awesome-gif)
+	- [General Tools](#general-tools)
+	- [Utilities](#utilities)
+	- [Libraries](#libraries)
+	 - [ActionScript](#actionscript)
+	 - [C++](#c++)
+	 - [C\#](#c\#)
+	 - [Java](#java)
+	 - [Javascript](#javascript)
+	 - [PHP](#php)
+	 - [Objective-c](#objective-c)
+	 - [Swift](#swift)
+	- [GUI](#gui)
+	- [Hosting](#hosting)
+	- [Online tool](#online-tool)
+	- [Search Engine](#search-engine)
+	- [3rd Party](#3rd-party)
+	- [Scripts](#scripts)
+	 - [Frames to gif](#frames-to-gif)
+	 - [Gif to frames](#gif-to-frames)
+	 - [High quality gif](#high-quality-gif)
+	 - [Optimize Gif](#optimize-gif)
+	 - [Lossy GIF Compressor](#lossy-gif-compressor)
+	 - [Cinemagraphs](#cinemagraphs)
+	 - [Perfect Loop](#perfect-loop)
+	 - [Youtube video to Gif](#youtube-video-to-gif)
+	 - [Speed](#speed)
+	 - [Grabbing each frame of an HTML5 Canvas](#grabbing-each-frame-of-an-html5-canvas)
+	- [Miscellaneous](#miscellaneous)
+
 
 ## General Tools 
 - [FFmpeg](https://www.ffmpeg.org)
@@ -31,7 +64,7 @@
 - [Giftoppr](https://github.com/desktoppr/giftoppr) - *Sync your favourite gifs with Dropbox*
 - [Gifit](https://github.com/Fauntleroy/GIFit) - *Chrome extension to make a GIF from a YouTube video*
 
-## Library
+## Libraries
 ### ActionScript
 - [Flash Animated Gif Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - *AS3 library for playing Animated GIFs in Flash*
 
@@ -147,7 +180,8 @@ ffmpeg -i video.mpg image%d.jpg
 convert -coalesce animated.gif image%05d.png
 ```
 
-### High quality gif with ffmpeg / based on this [article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
+### High quality gif
+with ffmpeg / based on this [article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
 - Generate a palette :
 
@@ -197,7 +231,9 @@ clip.write_gif("output.gif")
 ```
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#converting-a-video-excerpt-into-a-gif)
 
-### Freezing a region / Cinemagraphs 
+### Cinemagraphs 
+
+Freezing a region 
 
 ```python
 from moviepy.editor import *
@@ -246,31 +282,10 @@ selected_scenes.write_gifs(clip.resize(width=450), "./outputs_directory")
 ```
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 
-### Javascript GIF encoder in browser
-
-```javascript
-var gif = new GIF({
-  workers: 2,
-  quality: 10
-});
-
-gif.addFrame(imageElement);
-/**
-.... add more image
-**/
-
-gif.on('finished', function(blob) {
-  window.open(URL.createObjectURL(blob));
-});
-
-gif.render();
-```
-[Gif.js](https://github.com/jnordberg/gif.js)
-
 
 ### Youtube video to Gif
 
-- with youtube-dl and then moviepy :
+- Download it via youtube-dl and then convert it.
 
 ```
 youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
@@ -281,11 +296,7 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 - with [vid2gif](http://imgur.com/vidgif) online - [source](https://github.com/jimgur/gif)
 
 
-
-
-
-
-### speed
+### Speed
 
 [see this stackoverflow's answer](http://superuser.com/a/569967)
 
@@ -323,7 +334,7 @@ function(status) {
 
 
 
-### Others thing
+## Miscellaneous
 
 [Webkit request : add a function to WebKit to stop all in-progress GIF animations](https://bugs.webkit.org/show_bug.cgi?id=23945)
 
