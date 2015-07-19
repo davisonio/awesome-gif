@@ -308,7 +308,7 @@ with [gifie](https://github.com/eirikb/gifie). [Demo](http://eirikb.github.io/gi
 
 [Webkit request : add a function to WebKit to stop all in-progress GIF animations](https://bugs.webkit.org/show_bug.cgi?id=23945)
 
-
+![license](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
 
 
