@@ -1,7 +1,6 @@
 # Awesome GIF
 
-A curated list of awesome gif tools and scripts : libraries, utilities, and short examples.
-Inspired by awesome-... stuff.
+A curated list of awesome gif tools and scripts : libraries, utilities, and short examples. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
 - [Awesome GIF](#awesome-gif)
 	- [General Tools](#general-tools)
