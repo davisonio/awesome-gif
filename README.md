@@ -172,7 +172,7 @@ Imagemagick
 ```bash
 convert   -delay 20   -loop 0   frames*.png   animated.gif
 ```
-Bash script (```frames2gif.sh```) for GraphicsMagick,ImageMagick,FFmpeg 
+Bash script (```frames2gif.sh```) for GraphicsMagick, ImageMagick, FFmpeg 
 ```bash
 #!/bin/bash
 if [ $# -ne 5 ]; then
