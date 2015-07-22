@@ -163,14 +163,16 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 
 ### Frames to gif 
 
+FFmpeg 
 ```bash
 ffmpeg -f image2 -i image%d.jpg animated.gif
 ```
 
+Imagemagick
 ```bash
 convert   -delay 20   -loop 0   frames*.png   animated.gif
 ```
-
+Bash script (```frames2gif.sh```) for GraphicsMagick,ImageMagick,FFmpeg 
 ```bash
 #!/bin/bash
 if [ $# -ne 5 ]; then
@@ -200,7 +202,7 @@ else # use crappy gif-algorithm from ffmpeg
     $FFMPEG -f image2 -framerate ${FPS} -i "$1/%08d.${suffix}" "$3"
 fi
 ```
-[Source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh)
+From [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo), [source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh)
 
 
 ### Gif to frames
