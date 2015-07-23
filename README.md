@@ -63,6 +63,8 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Tty2gif](https://github.com/z24/tty2gif) - *record scripts and their outputs into both binary and gif formats*
 - [Giftoppr](https://github.com/desktoppr/giftoppr) - *Sync your favourite gifs with Dropbox*
 - [Gifit](https://github.com/Fauntleroy/GIFit) - *Chrome extension to make a GIF from a YouTube video*
+- [Ccapture.js](https://github.com/spite/ccapture.js) - *Capture animations created with HTML5 canvas*
+
 
 ## Libraries
 ### ActionScript
@@ -101,6 +103,8 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Gifencoder](https://github.com/eugeneware/gifencoder) - *Server side animated gif generation for node.js*
 - [Gif-video](https://github.com/hughsk/gif-video) - *Javascript Convert a GIF image into an HTML5-ready video*
 - [Gif-player](https://github.com/apankrat/gif-player) - *On-demand GIF loader/player in Javascript*
+
+
 
 ### PHP
 - [GifCreator](https://github.com/Sybio/GifCreator) - *PHP class that creates animated GIF from multiple images*
@@ -367,7 +371,7 @@ function(status) {
   }
 });
 ```
-
+or use [ccapture.js](https://github.com/spite/ccapture.js).
 
 
 ## Miscellaneous
