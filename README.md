@@ -155,7 +155,6 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Gifme.io](http://gifme.io) 
 - [9gag.com/gif](http://9gag.com/gif)
 - [Reactionsgifs](http://reactiongifs.com/)
-
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs)
 
 
