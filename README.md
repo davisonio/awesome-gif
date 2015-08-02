@@ -17,7 +17,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 	- [GUI](#gui)
 	- [Hosting](#hosting)
 	- [Online tool](#online-tool)
-	- [Search Engine](#search-engine)
+	- [Search Engine & communities](#search-engine-and-communities)
 	- [3rd Party](#3rd-party)
 	- [Scripts](#scripts)
 	 - [Frames to gif](#frames-to-gif)
@@ -149,12 +149,14 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [EzGif](http://ezgif.com/)
 
 
-## Search engine 
+## Search engine and communities
 
 - [Giphy.com](http://gifphy.com) 
 - [Gifme.io](http://gifme.io) 
 - [9gag.com/gif](http://9gag.com/gif)
 - [Reactionsgifs](http://reactiongifs.com/)
+
+- [Educational Gifs](https://www.reddit.com/r/educationalgifs)
 
 
 
