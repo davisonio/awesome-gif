@@ -9,6 +9,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 	 - [ActionScript](#actionscript)
 	 - [C++](#c++)
 	 - [C\#](#c\#)
+	 - [Haxe](#haxe)
 	 - [Java](#java)
 	 - [Javascript](#javascript)
 	 - [PHP](#php)
