@@ -80,6 +80,9 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - *A simple library to display animated GIF images in WPF*
 - [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - *A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)*
 
+### Haxe
+- [Gif](https://github.com/snowkit/gif) - *Haxe gif encoder*
+
 ### Java
 
 - [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - *Views and Drawable for displaying animated GIFs on Android*
