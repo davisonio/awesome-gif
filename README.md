@@ -149,8 +149,9 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Imgur](http://imgur.com) - *Maximum file upload is 50MB*
 
 ## Online tool
-- [Vid2gif](http://imgur.com/vidgif) by imgur
-- [EzGif](http://ezgif.com/)
+- [Vid2gif](http://imgur.com/vidgif) - *Video to Gif by imgur*
+- [EzGif](http://ezgif.com/) - *Online GIF maker and image editor*
+- [Giflr](https://giflr.com/) - *A web app for making or remixing animated GIF's*
 
 
 ## Search engine and communities
