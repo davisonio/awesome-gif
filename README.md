@@ -107,7 +107,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Gifencoder](https://github.com/eugeneware/gifencoder) - *Server side animated gif generation for node.js*
 - [Gif-video](https://github.com/hughsk/gif-video) - *Javascript Convert a GIF image into an HTML5-ready video*
 - [Gif-player](https://github.com/apankrat/gif-player) - *On-demand GIF loader/player in Javascript*
-
+- [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - *Facial-emotion detectors*
 
 
 ### PHP
@@ -152,6 +152,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Vid2gif](http://imgur.com/vidgif) - *Video to Gif by imgur*
 - [EzGif](http://ezgif.com/) - *Online GIF maker and image editor*
 - [Giflr](https://giflr.com/) - *A web app for making or remixing animated GIF's*
+- [Gif.gf](http://www.gif.gf/labs/face) - *Provide a matching GIF for your face*
 
 
 ## Search engine and communities
