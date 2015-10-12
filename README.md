@@ -157,7 +157,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 
 ## Search engine and communities
 
-- [Giphy.com](http://gifphy.com) 
+- [Giphy.com](http://giphy.com) 
 - [Gifme.io](http://gifme.io) 
 - [9gag.com/gif](http://9gag.com/gif)
 - [Reactionsgifs](http://reactiongifs.com/)
