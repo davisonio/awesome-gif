@@ -160,7 +160,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Giphy.com](http://giphy.com) 
 - [Gifme.io](http://gifme.io) 
 - [9gag.com/gif](http://9gag.com/gif)
-- [Reactionsgifs](http://reactiongifs.com/)
+- [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs)
 
 
@@ -260,7 +260,7 @@ convert -layers Optimize output.gif output_optimized.gif
 ./gifsicle -O3 --lossy=80 -o lossy-compressed.gif input.gif
 
 ```
-[Lossy Gif](http://pornel.net/lossygif)
+[Lossy Gif](https://kornel.ski/lossygif)
 
 
 ### Making gif from video  
