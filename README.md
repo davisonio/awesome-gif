@@ -77,7 +77,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [OfxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - *C++ openframeworks addon to export animated gifs*
 
 ### C\# 
- 
+- [dot-screencap](https://github.com/Speisaa/dot-screencap) - *A simple libary to record your screen and save it as animated gif*
 - [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - *A simple library to display animated GIF images in WPF*
 - [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - *A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)*
 
