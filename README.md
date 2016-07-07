@@ -43,8 +43,9 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 
 
 ## Utilities 
-- [gifgen](https://github.com/lukechilds/gifgen) - *Simple high quality GIF encoding*
-- [Gifify](https://github.com/jclem/gifify) - *convert screen recording into GIF*
+- [Gifgen](https://github.com/lukechilds/gifgen) - *Simple high quality GIF encoding*
+- [Gifify](https://github.com/vvo/gifify) - *Convert any video file to an optimized animated GIF*
+- [Gifify (not the same)](https://github.com/jclem/gifify) - *convert screen recording into GIF*
 - [Gifsicle](https://github.com/pornel/giflossy) - *lossy gif compressor*
 - [Gifs](https://github.com/jglovier/gifs) - *storage place for gifs* - [demo](http://gifs.joelglovier.com)
 - [Gifshot](https://github.com/yahoo/gifshot) - *create animated GIFs from media by Yahoo* - [demo](http://yahoo.github.io/gifshot/)
