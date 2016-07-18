@@ -110,6 +110,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Gif-video](https://github.com/hughsk/gif-video) - *Javascript Convert a GIF image into an HTML5-ready video*
 - [Gif-player](https://github.com/apankrat/gif-player) - *On-demand GIF loader/player in Javascript*
 - [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - *Facial-emotion detectors*
+- [node-youtube](https://github.com/javascipt/node-youtube) - *Youtube to snapshots and GIFs.*
 
 
 ### PHP
