@@ -145,6 +145,7 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [GIFs](https://github.com/orta/GIFs) - *Mac App for finding GIFs*
 - [VineGifR](https://github.com/esten/VineGifR) - *Mac app to turn Vine videos into gifs*
 - [GifPro](https://github.com/unixpickle/GifPro) - *Gif encoder for Mac*
+- [Gif Maker](https://movielala.com/gif-maker) - *High quailty gif maker with filters for Mac*
 
 
 ## Hosting
