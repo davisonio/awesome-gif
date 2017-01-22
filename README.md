@@ -1,48 +1,50 @@
 # Awesome GIF [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome gif tools and scripts : libraries, utilities, and short examples. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
+> A curated list of awesome [GIF](https://en.wikipedia.org/wiki/GIF) resources
 
-- [Awesome GIF](#awesome-gif)
-	- [General Tools](#general-tools)
-	- [Utilities](#utilities)
-	- [Libraries](#libraries)
-	 - [ActionScript](#actionscript)
-	 - [C++](#c)
-	 - [C\#](#c-1)
-	 - [Haxe](#haxe)
-	 - [Java](#java)
-	 - [Javascript](#javascript)
-	 - [PHP](#php)
-	 - [Objective-c](#objective-c)
-	 - [Swift](#swift)
-	- [GUI](#gui)
-	- [Hosting](#hosting)
-	- [Online tool](#online-tool)
-	- [Search Engine & communities](#search-engine-and-communities)
-	- [3rd Party](#3rd-party)
-	- [Scripts](#scripts)
-	 - [Frames to gif](#frames-to-gif)
-	 - [Gif to frames](#gif-to-frames)
-	 - [High quality gif](#high-quality-gif)
-	 - [Optimize gif](#optimize-gif)
-	 - [Lossy gif compressor](#lossy-gif-compressor)
-	 - [Making gif from video](#making-gif-from-video)
-	 - [Cinemagraphs](#cinemagraphs)
-	 - [Perfect loop](#perfect-loop)
-	 - [Youtube video to gif](#youtube-video-to-gif)
-	 - [Speed](#speed)
-	 - [Grabbing each frame of an HTML5 canvas](#grabbing-each-frame-of-an-html5-canvas)
-	- [Miscellaneous](#miscellaneous)
+## Contents
 
+- [General Tools](#general-tools)
+- [Utilities](#utilities)
+- [Libraries](#libraries)
+	- [ActionScript](#actionscript)
+	- [C++](#c)
+	- [C\#](#c-1)
+	- [Haxe](#haxe)
+	- [Java](#java)
+	- [JavaScript](#javascript)
+	- [PHP](#php)
+	- [Objective-c](#objective-c)
+	- [Swift](#swift)
+- [GUI](#gui)
+- [Hosting](#hosting)
+- [Online tool](#online-tool)
+- [Search Engine & communities](#search-engine-and-communities)
+- [3rd Party](#3rd-party)
+- [Scripts](#scripts)
+	- [Frames to gif](#frames-to-gif)
+	- [Gif to frames](#gif-to-frames)
+	- [High quality gif](#high-quality-gif)
+	- [Optimize gif](#optimize-gif)
+	- [Lossy gif compressor](#lossy-gif-compressor)
+	- [Making gif from video](#making-gif-from-video)
+	- [Cinemagraphs](#cinemagraphs)
+	- [Perfect loop](#perfect-loop)
+	- [Youtube video to gif](#youtube-video-to-gif)
+	- [Speed](#speed)
+	- [Grabbing each frame of an HTML5 canvas](#grabbing-each-frame-of-an-html5-canvas)
+- [Miscellaneous](#miscellaneous)
 
-## General Tools 
+## General Tools
+
 - [FFmpeg](https://www.ffmpeg.org)
 - [ImageMagick](http://www.imagemagick.org/)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick is usually faster than ImageMagick*
 - [MoviePy](http://zulko.github.io/moviepy/) - *Python module for video editing*
 
 
-## Utilities 
+## Utilities
+
 - [Gifgen](https://github.com/lukechilds/gifgen) - *Simple high quality GIF encoding*
 - [Gifify](https://github.com/vvo/gifify) - *Convert any video file to an optimized animated GIF*
 - [Gifify (not the same)](https://github.com/jclem/gifify) - *convert screen recording into GIF*
@@ -67,24 +69,29 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Giftoppr](https://github.com/desktoppr/giftoppr) - *Sync your favourite gifs with Dropbox*
 - [Gifit](https://github.com/Fauntleroy/GIFit) - *Chrome extension to make a GIF from a YouTube video*
 - [Ccapture.js](https://github.com/spite/ccapture.js) - *Capture animations created with HTML5 canvas*
-- [Kap](https://getkap.co/) - *Beautiful open-source app to capture your screen and export to GIF.* 
+- [Kap](https://getkap.co/) - *Beautiful open-source app to capture your screen and export to GIF.*
 
 
 ## Libraries
+
 ### ActionScript
+
 - [Flash Animated Gif Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - *AS3 library for playing Animated GIFs in Flash*
 
 ### C++
+
 - [Node-gif](https://github.com/pkrumins/node-gif) - *C++ library to make Gif*
 - [Gif-h](https://github.com/ginsweater/gif-h) - *C++ one-header library for the creation of animated GIFs*
 - [OfxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - *C++ openframeworks addon to export animated gifs*
 
-### C\# 
+### C#
+
 - [dot-screencap](https://github.com/Speisaa/dot-screencap) - *A simple libary to record your screen and save it as animated gif*
 - [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - *A simple library to display animated GIF images in WPF*
 - [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - *A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)*
 
 ### Haxe
+
 - [Gif](https://github.com/snowkit/gif) - *Haxe gif encoder*
 
 ### Java
@@ -99,7 +106,8 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [GIFDroid](https://github.com/quackware/GIFDroid) - *Android video to GIF converter*
 - [Android-GifStitch](https://github.com/CaptPhunkosis/Android-GifStitch) - *create and share animated gifs*
 
-### Javascript
+### JavaScript
+
 - [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - *create GIF from the DOM*
 - [Omggif](https://github.com/deanm/omggif) - Javascript - *GIF 89a encoder and decoder*
 - [Animated_GIF](https://github.com/sole/Animated_GIF) - *Javascript library for creating animated GIFs*
@@ -113,13 +121,14 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - *Facial-emotion detectors*
 - [node-youtube](https://github.com/javascipt/node-youtube) - *Youtube to snapshots and GIFs.*
 
-
 ### PHP
+
 - [GifCreator](https://github.com/Sybio/GifCreator) - *PHP class that creates animated GIF from multiple images*
 - [Spacer.gif](https://github.com/msng/spacer.gif) - *PHP script offering spacer.gif 1x1*
 - [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - *PHP class that separates all the frames of an animated GIF*
 
 ### Objective-C
+
 - [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - *decodes an UIImage from Animated GIFs image data*
 - [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - *UIImage category that loads animated GIFs*
 - [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - *"Twitter music" and "Yahoo! Weather" like pull-to-refresh control*
@@ -138,48 +147,44 @@ A curated list of awesome gif tools and scripts : libraries, utilities, and shor
 - [Gifu](https://github.com/kaishin/gifu) - *animated GIF support for iOS in Swift*
 - [SwiftGif](https://github.com/bahlo/SwiftGif) - *UIImage extension with gif support*
 
-
-
 ## GUI
+
 - [Glyph](http://www.glyph.video/) - *tool for generating seamlessly looping GIFs and cinemagraphs from videos*
-- [Qgifer](http://sourceforge.net/projects/qgifer/) 
+- [Qgifer](http://sourceforge.net/projects/qgifer/)
 - [GIFs](https://github.com/orta/GIFs) - *Mac App for finding GIFs*
 - [VineGifR](https://github.com/esten/VineGifR) - *Mac app to turn Vine videos into gifs*
 - [GifPro](https://github.com/unixpickle/GifPro) - *Gif encoder for Mac*
 - [Gif Maker](https://movielala.com/gif-maker) - *High quailty gif maker with filters for Mac*
 
-
 ## Hosting
+
 - [Gfycat](http://gfycat.com) - *Maximum gif/video length: 15 seconds.  Maximum file upload is 300Mb*
 - [Imgur](http://imgur.com) - *Maximum file upload is 50MB*
 
 ## Online tool
+
 - [Vid2gif](http://imgur.com/vidgif) - *Video to Gif by imgur*
 - [EzGif](http://ezgif.com/) - *Online GIF maker and image editor*
 - [Giflr](https://giflr.com/) - *A web app for making or remixing animated GIF's*
 - [Gif.gf](http://www.gif.gf/labs/face) - *Provide a matching GIF for your face*
 
-
 ## Search engine and communities
 
-- [Giphy.com](http://giphy.com) 
-- [Gifme.io](http://gifme.io) 
+- [Giphy.com](http://giphy.com)
+- [Gifme.io](http://gifme.io)
 - [9gag.com/gif](http://9gag.com/gif)
 - [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs)
 
-
-
 ## 3rd party
-- [Starwars-dot-gif](https://github.com/LindseyB/starwars-dot-gif) - *Python script to generate gifs from star wars*
 
+- [Starwars-dot-gif](https://github.com/LindseyB/starwars-dot-gif) - *Python script to generate gifs from star wars*
 
 ## Scripts
 
+### Frames to gif
 
-### Frames to gif 
-
-FFmpeg 
+FFmpeg
 ```bash
 ffmpeg -f image2 -i image%d.jpg animated.gif
 ```
@@ -188,7 +193,7 @@ Imagemagick
 ```bash
 convert   -delay 20   -loop 0   frames*.png   animated.gif
 ```
-Bash script (```frames2gif.sh```) for GraphicsMagick, ImageMagick, FFmpeg 
+Bash script (```frames2gif.sh```) for GraphicsMagick, ImageMagick, FFmpeg
 ```bash
 #!/bin/bash
 if [ $# -ne 5 ]; then
@@ -231,6 +236,7 @@ convert -coalesce animated.gif image%05d.png
 ```
 
 ### High quality gif
+
 with ffmpeg / based on this [article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
 - Generate a palette :
@@ -253,13 +259,13 @@ ffmpeg -ss $start_time -t $duration -i input.avi -i palette.png -filter_complex 
 ```
 [article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
-### Optimize Gif 
+### Optimize Gif
 
 ```
 convert -layers Optimize output.gif output_optimized.gif
 ```
 
-### Lossy GIF Compressor 
+### Lossy GIF Compressor
 
 ```bash
 ./gifsicle -O3 --lossy=80 -o lossy-compressed.gif input.gif
@@ -281,15 +287,13 @@ clip.write_gif("output.gif")
 ```
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#converting-a-video-excerpt-into-a-gif)
 
+### Cinemagraphs
 
-
-### Cinemagraphs 
-
-Freezing a region 
+Freezing a region
 
 ```python
 from moviepy.editor import *
-                   
+
 clip = (VideoFileClip("input.avi")
         .subclip((4,00.00),(5,00.00))
         .resize(0.3)
@@ -316,9 +320,6 @@ ffmpeg \
 ```
 by [Roger Barnes](https://bitbucket.org/snippets/rbarnesatl/6jRB)
 
-
-
-
 ### Perfect Loop
 
 ```python
@@ -330,10 +331,9 @@ scenes = FramesMatches.from_clip(clip, 10, 3)
 
 selected_scenes = scenes.select_scenes(2, 1, 4, 0.5)
 selected_scenes.write_gifs(clip.resize(width=450), "./outputs_directory")
-    
+
 ```
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
-
 
 ### Youtube video to Gif
 
@@ -346,7 +346,6 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 [Youtube-dl](https://rg3.github.io/youtube-dl/)
 
 - with [vid2gif](http://imgur.com/vidgif) online - [source](https://github.com/jimgur/gif)
-
 
 ### Speed
 
@@ -384,7 +383,6 @@ function(status) {
 });
 ```
 or use [ccapture.js](https://github.com/spite/ccapture.js).
-
 
 ## Miscellaneous
 
