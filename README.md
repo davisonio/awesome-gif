@@ -86,7 +86,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gif-h](https://github.com/ginsweater/gif-h) - *C++ one-header library for the creation of animated GIFs*
 - [OfxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - *C++ openframeworks addon to export animated gifs*
 
-### C#
+### C\#
 
 - [dot-screencap](https://github.com/Speisaa/dot-screencap) - *A simple libary to record your screen and save it as animated gif*
 - [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - *A simple library to display animated GIF images in WPF*
