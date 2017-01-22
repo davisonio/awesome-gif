@@ -2,6 +2,8 @@
 
 > A curated list of awesome [GIF](https://en.wikipedia.org/wiki/GIF) resources
 
+This is a list of tools, scripts, libraries, examples & other resources related to the Graphics Interchange Format (GIF) image format.
+
 ![GIF GIF](https://i.imgur.com/wae9uaq.gif)
 
 ## Contents
