@@ -2,6 +2,8 @@
 
 > A curated list of awesome [GIF](https://en.wikipedia.org/wiki/GIF) resources
 
+![GIF GIF](https://i.imgur.com/wae9uaq.gif)
+
 ## Contents
 
 - [General Tools](#general-tools)
