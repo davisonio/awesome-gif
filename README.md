@@ -22,8 +22,8 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 	- [Swift](#swift)
 - [GUI](#gui)
 - [Hosting](#hosting)
-- [Online tool](#online-tool)
-- [Search Engine & communities](#search-engine-and-communities)
+- [Online Tools](#online-tools)
+- [Community](#community)
 - [3rd Party](#3rd-party)
 - [Scripts](#scripts)
 	- [Frames to gif](#frames-to-gif)
@@ -45,7 +45,6 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [ImageMagick](http://www.imagemagick.org/)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick is usually faster than ImageMagick*
 - [MoviePy](http://zulko.github.io/moviepy/) - *Python module for video editing*
-
 
 ## Utilities
 
@@ -74,7 +73,6 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gifit](https://github.com/Fauntleroy/GIFit) - *Chrome extension to make a GIF from a YouTube video*
 - [Ccapture.js](https://github.com/spite/ccapture.js) - *Capture animations created with HTML5 canvas*
 - [Kap](https://getkap.co/) - *Beautiful open-source app to capture your screen and export to GIF.*
-
 
 ## Libraries
 
@@ -148,6 +146,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [OLImageView](https://github.com/dtorres/OLImageView) - *iOS OLImage and OLImageView support for animated GIFs*
 
 ### Swift
+
 - [Gifu](https://github.com/kaishin/gifu) - *animated GIF support for iOS in Swift*
 - [SwiftGif](https://github.com/bahlo/SwiftGif) - *UIImage extension with gif support*
 
@@ -165,14 +164,14 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gfycat](http://gfycat.com) - *Maximum gif/video length: 15 seconds.  Maximum file upload is 300Mb*
 - [Imgur](http://imgur.com) - *Maximum file upload is 50MB*
 
-## Online tool
+## Online Tools
 
 - [Vid2gif](http://imgur.com/vidgif) - *Video to Gif by imgur*
 - [EzGif](http://ezgif.com/) - *Online GIF maker and image editor*
 - [Giflr](https://giflr.com/) - *A web app for making or remixing animated GIF's*
 - [Gif.gf](http://www.gif.gf/labs/face) - *Provide a matching GIF for your face*
 
-## Search engine and communities
+## Community
 
 - [Giphy.com](http://giphy.com)
 - [Gifme.io](http://gifme.io)
