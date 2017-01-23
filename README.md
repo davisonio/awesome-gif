@@ -73,7 +73,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gifit](https://github.com/Fauntleroy/GIFit) - *Chrome extension to make a GIF from a YouTube video*
 - [Ccapture.js](https://github.com/spite/ccapture.js) - *Capture animations created with HTML5 canvas*
 - [Kap](https://getkap.co/) - *Beautiful open-source app to capture your screen and export to GIF.*
-- [Gifit](https://github.com/rotblauer/gifit) - *Get a search resulting giphy gif in markdown in stdout.*
+- [Gifit (the other one)](https://github.com/rotblauer/gifit) - *Get a search resulting giphy gif in markdown in stdout `$ gitif kittens`.*
 
 ## Libraries
 
