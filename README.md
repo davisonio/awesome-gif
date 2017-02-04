@@ -45,7 +45,6 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 	- [Cinemagraphs](#cinemagraphs)
 	- [Perfect loop](#perfect-loop)
 	- [Youtube video to gif](#youtube-video-to-gif)
-	- [Speed](#speed)
 	- [Grabbing each frame of an HTML5 canvas](#grabbing-each-frame-of-an-html5-canvas)
 - [Miscellaneous](#miscellaneous)
 
@@ -149,7 +148,6 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) - *Gif engine for iOS by FlipBoard*
 - [Animated-GIF-iPhone](https://github.com/arturogutierrez/Animated-GIF-iPhone) - *Support for Animated GIF on iOS*
 - [UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - *PullToRefresh using animated GIF to any scrollView*
-- [iOS AnimatedGif](https://github.com/scspijker/iOS_AnimatedGif) - *Animated GIF library for iPhone*
 - [SvGifView](https://github.com/smileEvday/SvGifView) - *iOS load and display Gif*
 - [GifHUD](https://github.com/cemolcay/GiFHUD) - *iOS progress hud for displaying only animated gif images*
 - [Video-Background GIF](https://github.com/ElvinJin/Video-Background-GIF) - *iOS Video Background GIF*
@@ -168,7 +166,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [GIFs](https://github.com/orta/GIFs) - *Mac App for finding GIFs*
 - [VineGifR](https://github.com/esten/VineGifR) - *Mac app to turn Vine videos into gifs*
 - [GifPro](https://github.com/unixpickle/GifPro) - *Gif encoder for Mac*
-- [Gif Maker](http://movielala.com/gif-maker/) - *High quailty gif maker with filters for Mac*
+- [Gif Maker](https://movielala.com/gif-maker/) - *High quailty gif maker with filters for Mac*
 
 ### Hosting
 
@@ -361,10 +359,6 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 - with [vid2gif](http://imgur.com/vidgif) online - [source](https://github.com/jimgur/gif)
 
-#### Speed
-
-[see this stackoverflow's answer](http://superuser.com/a/569967)
-
 #### Grabbing each frame of an HTML5 Canvas
 
 using [PhantomJS](http://phantomjs.org/)
@@ -397,6 +391,10 @@ function(status) {
 });
 ```
 or use [ccapture.js](https://github.com/spite/ccapture.js).
+
+### Miscellaneous
+
+- [Why is the GIF I created so slow?](http://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967#569967) - Using ImageMagick to solve problems concerning GIF speed.
 
 ## Use
 
