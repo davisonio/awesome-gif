@@ -402,3 +402,25 @@ or use [ccapture.js](https://github.com/spite/ccapture.js).
 
 The best ways to use this list are:
 
+- by browing the [contents](#contents)
+- by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
+
+## Authors
+
+**[Craig Davison](https://davison.io)**
+
+[![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
+
+With many thanks to the [contributors](https://github.com/davisonio/awesome-gif/graphs/contributors). :clap:
+
+**Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/awesome-gif/blob/master/CONTRIBUTING.md). :raised_hands:
+
+## License & Credits
+
+Unless otherwise stated:
+
+- Copyright © 2017+ [Craig Davison](https://davison.io). Released under the [CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872):
+
+- Copyright © 2015-2016 [Ismail Baaj](http://ismailbaaj.fr).
