@@ -52,7 +52,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 ### General Tools
 
 - [FFmpeg](https://www.ffmpeg.org)
-- [ImageMagick](http://www.imagemagick.org/)
+- [ImageMagick](http://www.imagemagick.org/script/index.php)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - *GraphicsMagick is usually faster than ImageMagick*
 - [MoviePy](http://zulko.github.io/moviepy/) - *Python module for video editing*
 
@@ -99,7 +99,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 <h3 id="c-sharp">C#</h2>
 
-- [dot-screencap](https://github.com/Speisaa/dot-screencap) - *A simple libary to record your screen and save it as animated gif*
+- [dot-screencap](https://github.com/Speiser/dot-screencap) - *A simple libary to record your screen and save it as animated gif*
 - [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - *A simple library to display animated GIF images in WPF*
 - [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - *A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)*
 
@@ -164,16 +164,16 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 ### GUI
 
 - [Glyph](http://www.glyph.video/) - *tool for generating seamlessly looping GIFs and cinemagraphs from videos*
-- [Qgifer](http://sourceforge.net/projects/qgifer/)
+- [Qgifer](https://sourceforge.net/projects/qgifer/)
 - [GIFs](https://github.com/orta/GIFs) - *Mac App for finding GIFs*
 - [VineGifR](https://github.com/esten/VineGifR) - *Mac app to turn Vine videos into gifs*
 - [GifPro](https://github.com/unixpickle/GifPro) - *Gif encoder for Mac*
-- [Gif Maker](https://movielala.com/gif-maker) - *High quailty gif maker with filters for Mac*
+- [Gif Maker](http://movielala.com/gif-maker/) - *High quailty gif maker with filters for Mac*
 
 ### Hosting
 
-- [Gfycat](http://gfycat.com) - *Maximum gif/video length: 15 seconds.  Maximum file upload is 300Mb*
-- [Imgur](http://imgur.com) - *Maximum file upload is 50MB*
+- [Gfycat](https://gfycat.com) - *Maximum gif/video length: 15 seconds.  Maximum file upload is 300Mb*
+- [Imgur](https://imgur.com) - *Maximum file upload is 50MB*
 
 ### Online Tools
 
@@ -188,7 +188,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gifme.io](http://gifme.io)
 - [9gag.com/gif](http://9gag.com/gif)
 - [Reactionsgifs](http://www.reactiongifs.com/)
-- [Educational Gifs](https://www.reddit.com/r/educationalgifs)
+- [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
 
 ### 3rd party
 
