@@ -35,6 +35,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Online Tools](#online-tools)
 - [Community](#community)
 - [3rd Party](#3rd-party)
+- [Niche](#niche)
 - [Scripts](#scripts)
 	- [Frames to gif](#frames-to-gif)
 	- [Gif to frames](#gif-to-frames)
@@ -188,7 +189,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
 
-### 3rd party
+### Niche
 
 - [Starwars-dot-gif](https://github.com/LindseyB/starwars-dot-gif) - *Python script to generate gifs from star wars*
 
