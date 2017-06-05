@@ -167,6 +167,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [VineGifR](https://github.com/esten/VineGifR) - Mac app to turn Vine videos into GIFs
 - [GifPro](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
 - [Gif Maker](https://movielala.com/gif-maker/) - High quailty GIF maker with filters for Mac
+- [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
 
 ### Hosting
 
