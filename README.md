@@ -166,7 +166,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [GIFs](https://github.com/orta/GIFs) - Mac App for finding GIFs
 - [VineGifR](https://github.com/esten/VineGifR) - Mac app to turn Vine videos into GIFs
 - [GifPro](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
-- [Gif Maker](https://movielala.com/gif-maker/) - High quailty GIF maker with filters for Mac
+- [Gif Maker](http://gifmaker.movielala.com) - High quailty GIF maker with filters for Mac
 - [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
 
 ### Hosting
@@ -177,15 +177,15 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 ### Online Tools
 
 - [Vid2gif](http://imgur.com/vidgif) - Video to GIF by imgur
-- [EzGif](http://ezgif.com/) - Online GIF maker and image editor
+- [EzGif](https://ezgif.com/) - Online GIF maker and image editor
 - [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs
 - [Gif.gf](http://www.gif.gf/labs/face) - Provide a matching GIF for your face
 
 ### Community
 
-- [Giphy.com](http://giphy.com)
+- [Giphy.com](https://giphy.com)
 - [Gifme.io](http://gifme.io)
-- [9gag.com/gif](http://9gag.com/gif)
+- [9gag.com/gif](https://9gag.com/gif)
 - [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
 
@@ -395,7 +395,7 @@ or use [ccapture.js](https://github.com/spite/ccapture.js).
 
 ### Miscellaneous
 
-- [Why is the GIF I created so slow?](http://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967#569967) - Using ImageMagick to solve problems concerning GIF speed.
+- [Why is the GIF I created so slow?](https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967) - Using ImageMagick to solve problems concerning GIF speed.
 
 ## Use
 
