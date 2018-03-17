@@ -60,7 +60,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 - [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF
 - [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF
-- [Gifsicle](https://github.com/pornel/giflossy) - lossy GIF compressor
+- [Gifsicle](https://github.com/kornelski/giflossy) - lossy GIF compressor
 - [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs - [demo](http://gifs.joelglovier.com)
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo - [demo](http://yahoo.github.io/gifshot/)
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
@@ -158,7 +158,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 - [SwiftyGif] (https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine
 - [Gifu](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift
-- [SwiftGif](https://github.com/bahlo/SwiftGif) - UIImage extension with GIF support
+- [SwiftGif](https://github.com/swiftgif/SwiftGif) - UIImage extension with GIF support
 
 ### GUI
 
@@ -167,7 +167,6 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [GIFs](https://github.com/orta/GIFs) - Mac App for finding GIFs
 - [VineGifR](https://github.com/esten/VineGifR) - Mac app to turn Vine videos into GIFs
 - [GifPro](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
-- [Gif Maker](https://gifmaker.movielala.com) - High quailty GIF maker with filters for Mac
 - [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
 
 ### Hosting
@@ -177,7 +176,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 ### Online Tools
 
-- [Vid2gif](http://imgur.com/vidgif) - Video to GIF by imgur
+- [Vid2gif](https://imgur.com/vidgif) - Video to GIF by imgur
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor
 - [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs
 - [Gif.gf](http://www.gif.gf/labs/face) - Provide a matching GIF for your face
