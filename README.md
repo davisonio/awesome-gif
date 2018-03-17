@@ -358,7 +358,7 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 [Youtube-dl](https://rg3.github.io/youtube-dl/)
 
-- with [vid2gif](http://imgur.com/vidgif) online - [source](https://github.com/jimgur/gif)
+- with [vid2gif](https://imgur.com/vidgif) online - [source](https://github.com/jimgur/gif)
 
 #### Grabbing each frame of an HTML5 Canvas
 
