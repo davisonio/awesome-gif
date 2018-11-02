@@ -102,6 +102,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [dot-screencap](https://github.com/Speiser/dot-screencap) - A simple libary to record your screen and save it as animated GIF
 - [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - A simple library to display animated GIF images in WPF
 - [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)
+- [AnimatedGif](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs
 
 #### Haxe
 
