@@ -61,7 +61,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF
 - [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF
 - [Gifsicle](https://github.com/kornelski/giflossy) - lossy GIF compressor
-- [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs - [demo](http://gifs.joelglovier.com)
+- [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo - [demo](http://yahoo.github.io/gifshot/)
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
 - [X-gif](https://github.com/geelen/x-gif) - a web component for flexible GIF playback
