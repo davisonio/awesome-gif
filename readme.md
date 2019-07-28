@@ -53,7 +53,6 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
 - [X-gif](https://github.com/geelen/x-gif) - a web component for flexible GIF playback
-- [gifme](https://github.com/holman/gifme) - generate animated GIFs
 - [GifW00t](https://github.com/yaronn/GifW00t) - javascript web recorder
 - [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from Youtube videos
 - [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server
@@ -155,7 +154,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Glyph](http://www.glyph.video/) - tool for generating seamlessly looping GIFs and cinemagraphs from videos
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
 - [GIFs](https://github.com/orta/GIFs) - Mac App for finding GIFs
-- [VineGifR](https://github.com/esten/VineGifR) - Mac app to turn Vine videos into GIFs
+- [VineGifR](https://github.com/caraesten/VineGifR ) - Mac app to turn Vine videos into GIFs
 - [GifPro](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
 - [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
 
@@ -352,7 +351,7 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 #### Grabbing each frame of an HTML5 Canvas
 
-Using [PhantomJS](http://phantomjs.org/).
+Using [PhantomJS](https://phantomjs.org).
 
 Example with this [canvas](http://www.effectgames.com/demos/canvascycle/?sound=0).
 
