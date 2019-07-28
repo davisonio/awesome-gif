@@ -173,7 +173,6 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ### Community
 
 - [Giphy.com](https://giphy.com)
-- [Gifme.io](http://gifme.io)
 - [9gag.com/gif](https://9gag.com/gif)
 - [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
