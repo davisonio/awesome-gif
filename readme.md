@@ -146,7 +146,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 #### Swift
 
-- [SwiftyGif] (https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine
+- [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine
 - [Gifu](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift
 - [SwiftGif](https://github.com/swiftgif/SwiftGif) - UIImage extension with GIF support
 
