@@ -84,6 +84,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Node-gif](https://github.com/pkrumins/node-gif) - C++ library to make GIF
 - [Gif-h](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs
 - [OfxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - C++ openframeworks addon to export animated GIFs
+- [msf_gif](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs
 
 <h3 id="c-sharp">C#</h2>
 
