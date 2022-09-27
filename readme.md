@@ -72,6 +72,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Gifit (the other one)](https://github.com/rotblauer/gifit) - Get a search resulting giphy GIF in markdown in stdout, ala `$ gifit kittens`.
 - [gifski](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
 - [Gifcurry](https://github.com/lettier/gifcurry) - Open-source, Haskell-built editor for GIF makers.
+- [Replayable](https://replayable.io) - Dashcam for desktop. Create GIFs from anything that happens on your desktop.
 
 ### Libraries
 
