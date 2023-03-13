@@ -32,7 +32,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 	- [Making GIF from video](#making-gif-from-video)
 	- [Cinemagraphs](#cinemagraphs)
 	- [Perfect loop](#perfect-loop)
-	- [Youtube video to GIF](#youtube-video-to-gif)
+	- [YouTube video to GIF](#youtube-video-to-gif)
 	- [Grabbing each frame of an HTML5 canvas](#grabbing-each-frame-of-an-html5-canvas)
 - [Miscellaneous](#miscellaneous)
 
@@ -53,8 +53,8 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
 - [X-gif](https://github.com/geelen/x-gif) - a web component for flexible GIF playback
-- [GifW00t](https://github.com/yaronn/GifW00t) - javascript web recorder
-- [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from Youtube videos
+- [GifW00t](https://github.com/yaronn/GifW00t) - JavaScript web recorder
+- [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from YouTube videos
 - [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server
 - [Screengif](https://github.com/dergachev/screengif) - Create animated GIF screencasts
 - [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http
@@ -111,18 +111,18 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 #### JavaScript
 
-- [Gif.js](https://github.com/jnordberg/gif.js) - Javascript - create GIF from the DOM
-- [Omggif](https://github.com/deanm/omggif) - Javascript - GIF 89a encoder and decoder
-- [Animated_GIF](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs
-- [Gifffer](https://github.com/krasimir/gifffer) JavaScript library that prevents the autoplaying of the animated GIFs
+- [Gif.js](https://github.com/jnordberg/gif.js) - create GIF from the DOM
+- [Omggif](https://github.com/deanm/omggif) - GIF 89a encoder and decoder
+- [Animated_GIF](https://github.com/sole/Animated_GIF) - JavaScript library for creating animated GIFs
+- [Gifffer](https://github.com/krasimir/gifffer) - JavaScript library that prevents the autoplaying of the animated GIFs
 - [Gifplayer](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs
 - [Jsgif](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player
-- [node-gify](https://github.com/tj/node-gify) - Javascript convert videos to GIFs using ffmpeg and gifsicle
-- [Gifencoder](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js
-- [Gif-video](https://github.com/hughsk/gif-video) - Javascript Convert a GIF image into an HTML5-ready video
+- [node-gify](https://github.com/tj/node-gify) - JavaScript convert videos to GIFs using ffmpeg and gifsicle
+- [Gifencoder](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for Node.js
+- [Gif-video](https://github.com/hughsk/gif-video) - JavaScript Convert a GIF image into an HTML5-ready video
 - [Gif-player](https://github.com/apankrat/gif-player) - On-demand GIF loader/player in Javascript
 - [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - Facial-emotion detectors
-- [node-youtube](https://github.com/javascipt/node-youtube) - Youtube to snapshots and GIFs.
+- [node-youtube](https://github.com/javascipt/node-youtube) - YouTube to snapshots and GIFs.
 
 #### PHP
 
@@ -381,7 +381,6 @@ function(status) {
   }
 });
 ```
-or use [ccapture.js](https://github.com/spite/ccapture.js).
 
 ### Miscellaneous
 
