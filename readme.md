@@ -36,7 +36,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 	- [Grabbing each frame of an HTML5 canvas](#grabbing-each-frame-of-an-html5-canvas)
 - [Miscellaneous](#miscellaneous)
 
-### General Tools
+## General Tools
 
 - [FFmpeg](https://www.ffmpeg.org)
 - [ImageMagick](http://www.imagemagick.org/script/index.php)
@@ -120,7 +120,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [node-gify](https://github.com/tj/node-gify) - JavaScript convert videos to GIFs using ffmpeg and gifsicle
 - [Gifencoder](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for Node.js
 - [Gif-video](https://github.com/hughsk/gif-video) - JavaScript Convert a GIF image into an HTML5-ready video
-- [Gif-player](https://github.com/apankrat/gif-player) - On-demand GIF loader/player in Javascript
+- [Gif-player](https://github.com/apankrat/gif-player) - On-demand GIF loader/player in JavaScript
 - [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - Facial-emotion detectors
 - [node-youtube](https://github.com/javascipt/node-youtube) - YouTube to snapshots and GIFs.
 
@@ -260,7 +260,6 @@ duration=3
 ffmpeg -ss $start_time -t $duration -i input.avi -i palette.png -filter_complex \
 "fps=10,scale=320:-1:flags=lanczos[x];[x][1:v]paletteuse" output.gif
 ```
-[article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
 #### Optimize GIF
 
@@ -338,7 +337,7 @@ selected_scenes.write_gifs(clip.resize(width=450), "./outputs_directory")
 ```
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 
-#### Youtube video to GIF
+#### YouTube video to GIF
 
 - Download it via youtube-dl and then convert it.
 
@@ -347,8 +346,6 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 ```
 
 [Youtube-dl](https://rg3.github.io/youtube-dl/)
-
-- with [vid2gif](https://imgur.com/vidgif) online - [source](https://github.com/jimgur/gif)
 
 #### Grabbing each frame of an HTML5 Canvas
 
@@ -392,16 +389,6 @@ The best ways to use this list are:
 
 - by browing the [contents](#contents)
 - by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
-
-## Credits
-
-**[Craig Davison](https://davison.io)**
-
-[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
-
-...and [contributors](https://github.com/davisonio/awesome-gif/graphs/contributors).
-
-**[Contributions are welcome!](https://github.com/davisonio/awesome-gif/blob/master/contributing.md)**
 
 Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872):
 
