@@ -403,12 +403,6 @@ The best ways to use this list are:
 
 **[Contributions are welcome!](https://github.com/davisonio/awesome-gif/blob/master/contributing.md)**
 
-## License
-
-Unless otherwise stated:
-
-- Copyright © 2017+ [Craig Davison](https://davison.io). Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
-
 Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872):
 
 - Copyright © 2015-2016 [Ismail Baaj](http://ismailbaaj.fr).
