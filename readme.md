@@ -41,7 +41,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [FFmpeg](https://www.ffmpeg.org)
 - [ImageMagick](http://www.imagemagick.org/script/index.php)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is usually faster than ImageMagick.
-- [MoviePy](http://zulko.github.io/moviepy/) - Python module for video editing.
+- [MoviePy](https://zulko.github.io/moviepy/) - Python module for video editing.
 
 ### Utilities
 
@@ -106,7 +106,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [GifImageView](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images
 - [Gif-animation](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF
 - [Android-gif-encoder](https://github.com/nbadal/android-gif-encoder) - animated GIF encoder for Android
-- [GIFDroid](https://github.com/quackware/GIFDroid) - Android video to GIF converter
+- [GIFDroid](https://github.com/curtislarson/GIFDroid) - Android video to GIF converter
 - [Android-GifStitch](https://github.com/CaptPhunkosis/Android-GifStitch) - create and share animated GIFs
 
 #### JavaScript
@@ -170,12 +170,10 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Vid2gif](https://imgur.com/vidgif) - Video to GIF by imgur
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor
 - [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs
-- [Gif.gf](http://www.gif.gf/labs/face) - Provide a matching GIF for your face
 
 ### Community
 
 - [Giphy.com](https://giphy.com)
-- [9gag.com/gif](https://9gag.com/gif)
 - [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
 
@@ -320,7 +318,6 @@ ffmpeg \
   eq=gamma=${gamma}:contrast=${contrast}:saturation=${saturation},unsharp                   `# final adjustments`
 " -an output.mp4
 ```
-by [Roger Barnes](https://bitbucket.org/snippets/rbarnesatl/6jRB)
 
 #### Perfect Loop
 
