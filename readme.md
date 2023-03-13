@@ -46,9 +46,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ### Utilities
 
 - [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
-- [Gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF
-- [Gifify (not the same)](https://github.com/jclem/gifify) - convert screen recording into GIF
-- [Gifsicle](https://github.com/kornelski/giflossy) - lossy GIF compressor
+- [Gifify](https://github.com/jclem/gifify) - convert screen recording into GIF
 - [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
