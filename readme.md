@@ -6,6 +6,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Contents
 
+<!--lint disable awesome-toc-->
 - [General Tools](#general-tools)
 - [Utilities](#utilities)
 - [Libraries](#libraries)
@@ -28,7 +29,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 	- [GIF to frames](#gif-to-frames)
 	- [High quality GIF](#high-quality-gif)
 	- [Optimize GIF](#optimize-gif)
-	- [Lossy GIF compressor](#lossy-gif-compressor)
+	- [Lossy GIF Compressor](#lossy-gif-compressor)
 	- [Making GIF from video](#making-gif-from-video)
 	- [Cinemagraphs](#cinemagraphs)
 	- [Perfect loop](#perfect-loop)
@@ -283,6 +284,7 @@ clip = (VideoFileClip("input.avi")
 clip.write_gif("output.gif")
 
 ```
+<!--lint ignore double-link-->
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#converting-a-video-excerpt-into-a-gif)
 
 ### Cinemagraphs
@@ -298,9 +300,8 @@ clip = (VideoFileClip("input.avi")
         .fx(vfx.freeze_region, outside_region=(170, 230, 380, 320)))
 clip.write_gif("output.gif", fps=15)
 ```
-<!--lint disable double-link-->
+<!--lint ignore double-link-->
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#freezing-a-region)
-<!--lint enable double-link-->
 
 ```bash
 ffmpeg \
@@ -392,5 +393,3 @@ The best ways to use this list are:
 By [Craig Davison](https://davison.io).
 
 Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) by [Ismail Baaj](https://ismailbaaj.fr).
-
-- Copyright © 2015-2016 .
