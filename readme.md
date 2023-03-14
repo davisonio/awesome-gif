@@ -23,7 +23,6 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Hosting](#hosting)
 - [Online Tools](#online-tools)
 - [Community](#community)
-- [Niche](#niche)
 - [Scripts](#scripts)
 	- [Frames to GIF](#frames-to-gif)
 	- [GIF to frames](#gif-to-frames)
@@ -82,14 +81,13 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 - [Node-gif](https://github.com/pkrumins/node-gif) - C++ library to make GIF.
 - [Gif-h](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs.
-- [OfxGifEncoder](https://github.com/jesusgollonet/ofxGifEncoder) - C++ openframeworks addon to export animated GIFs.
 - [msf_gif](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
 
 <h3 id="c-sharp">C#</h2>
 
 - [dot-screencap](https://github.com/Speiser/dot-screencap) - A simple libary to record your screen and save it as animated GIF.
-- [WpfAnimatedGif](https://github.com/thomaslevesque/WpfAnimatedGif) - A simple library to display animated GIF images in WPF.
-- [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
+- [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF.
+- [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
 - [AnimatedGif](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs.
 
 ### Haxe
@@ -131,7 +129,6 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Objective-C
 
-- [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - Decodes an UIImage from Animated GIFs image data.
 - [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs.
 - [GIFRefreshControl](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control.
 - [UIImageView-PlayGIF](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF.
@@ -142,22 +139,17 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [GifHUD](https://github.com/cemolcay/GiFHUD) - iOS progress hud for displaying only animated GIF images.
 - [Video-Background GIF](https://github.com/ElvinJin/Video-Background-GIF) - iOS Video Background GIF.
 - [AnimatedGifExample](https://github.com/kasatani/AnimatedGifExample) - iOS animated and transparent GIFs.
-- [OLImageView](https://github.com/dtorres/OLImageView) - iOS OLImage and OLImageView support for animated GIFs.
 
 ### Swift
 
 - [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine.
 - [Gifu](https://github.com/kaishin/gifu) - Animated GIF support for iOS in Swift.
-- [SwiftGif](https://github.com/swiftgif/SwiftGif) - UIImage extension with GIF support.
 
 ## GUI
 
 - [Glyph](http://www.glyph.video/) - Tool for generating seamlessly looping GIFs and cinemagraphs from videos.
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
-- [GIFs](https://github.com/orta/GIFs) - Mac App for finding GIFs.
-- [VineGifR](https://github.com/caraesten/VineGifR ) - Mac app to turn Vine videos into GIFs.
 - [GifPro](https://github.com/unixpickle/GifPro) - GIF encoder for Mac.
-- [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs.
 
 ## Hosting
 
@@ -173,12 +165,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Community
 
 - [Giphy.com](https://giphy.com)
-- [Reactionsgifs](http://www.reactiongifs.com/)
-- [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
-
-## Niche
-
-- [Starwars-dot-gif](https://github.com/LindseyB/starwars-dot-gif) - Python script to generate GIFs from star wars.
+- [/r/educationalgifs](https://www.reddit.com/r/educationalgifs/)
 
 ## Scripts
 
