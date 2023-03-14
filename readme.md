@@ -377,6 +377,6 @@ The best ways to use this list are:
 
 ## Credits
 
-By [Craig Davison](https://davison.io).
+By [Craig Davison](https://davison.io) and contributors.
 
 Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) by [Ismail Baaj](https://ismailbaaj.fr).
