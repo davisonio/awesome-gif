@@ -45,27 +45,27 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Utilities
 
-- [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
-- [Gifify](https://github.com/jclem/gifify) - convert screen recording into GIF
-- [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs
+- [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding.
+- [Gifify](https://github.com/jclem/gifify) - convert screen recording into GIF.
+- [Gifs](https://github.com/jglovier/gifs) - storage place for GIFs.
 - [Gifshot](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo. ([demo](http://yahoo.github.io/gifshot/))
-- [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
-- [X-gif](https://github.com/geelen/x-gif) - a web component for flexible GIF playback
-- [GifW00t](https://github.com/yaronn/GifW00t) - JavaScript web recorder
-- [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from YouTube videos
-- [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server
-- [Screengif](https://github.com/dergachev/screengif) - Create animated GIF screencasts
-- [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http
-- [gifdeck](https://github.com/jaipandya/gifdeck) - Convert your SlideShares into animated GIFs
-- [Gifbot](https://github.com/schuyler/gifbot) - GIF search for Slack
-- [Gif-camera](https://github.com/FuzzyWobble/GIF-Camera) - create animated GIFs using webcam
-- [Gifline](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails
-- [Gifdrop](https://github.com/markjaquith/gifdrop) - Create a repository for your collection of gif images
-- [Gh-gif](https://github.com/node-gh/gh-gif) - NodeGH plugin for commenting on pull requests/issues using GIF reactions
-- [Tty2gif](https://github.com/z24/tty2gif) - record scripts and their outputs into both binary and GIF formats
-- [Giftoppr](https://github.com/desktoppr/giftoppr) - Sync your favourite GIFs with Dropbox
-- [Gifit](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video
-- [Ccapture.js](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas
+- [Gifsockets](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport.
+- [X-gif](https://github.com/geelen/x-gif) - a web component for flexible GIF playback.
+- [GifW00t](https://github.com/yaronn/GifW00t) - JavaScript web recorder.
+- [gif-machine](https://github.com/lelandbatey/gif-machine) - GIF creation from YouTube videos.
+- [gifstreaming](https://github.com/jbochi/gifstreaming) - Live video streaming server.
+- [Screengif](https://github.com/dergachev/screengif) - Create animated GIF screencasts.
+- [vnc-over-gif](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http.
+- [gifdeck](https://github.com/jaipandya/gifdeck) - Convert your SlideShares into animated GIFs.
+- [Gifbot](https://github.com/schuyler/gifbot) - GIF search for Slack.
+- [Gif-camera](https://github.com/FuzzyWobble/GIF-Camera) - Create animated GIFs using webcam.
+- [Gifline](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails.
+- [Gifdrop](https://github.com/markjaquith/gifdrop) - Create a repository for your collection of GIF images.
+- [Gh-gif](https://github.com/node-gh/gh-gif) - NodeGH plugin for commenting on pull requests/issues using GIF reactions.
+- [Tty2gif](https://github.com/z24/tty2gif) - record scripts and their outputs into both binary and GIF formats.
+- [Giftoppr](https://github.com/desktoppr/giftoppr) - Sync your favourite GIFs with Dropbox.
+- [Gifit](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video.
+- [Ccapture.js](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas.
 - [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
 - [Gifit (the other one)](https://github.com/rotblauer/gifit) - Get a search resulting giphy GIF in markdown in stdout, ala `$ gifit kittens`.
 - [gifski](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
@@ -298,7 +298,9 @@ clip = (VideoFileClip("input.avi")
         .fx(vfx.freeze_region, outside_region=(170, 230, 380, 320)))
 clip.write_gif("output.gif", fps=15)
 ```
+<!--lint disable double-link-->
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#freezing-a-region)
+<!--lint enable double-link-->
 
 ```bash
 ffmpeg \
