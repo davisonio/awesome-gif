@@ -76,7 +76,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### ActionScript
 
-- [Flash Animated GIF Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - AS3 library for playing Animated GIFs in Flash
+- [Flash Animated GIF Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - AS3 library for playing Animated GIFs in Flash.
 
 ### C++
 
@@ -94,7 +94,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Haxe
 
-- [Gif](https://github.com/snowkit/gif) - Haxe GIF encoder
+- [Gif](https://github.com/snowkit/gif) - Haxe GIF encoder.
 
 ### Java
 
@@ -157,7 +157,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [GIFs](https://github.com/orta/GIFs) - Mac App for finding GIFs.
 - [VineGifR](https://github.com/caraesten/VineGifR ) - Mac app to turn Vine videos into GIFs.
 - [GifPro](https://github.com/unixpickle/GifPro) - GIF encoder for Mac.
-- [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
+- [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs.
 
 ## Hosting
 
