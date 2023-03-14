@@ -43,7 +43,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick is usually faster than ImageMagick.
 - [MoviePy](https://zulko.github.io/moviepy/) - Python module for video editing.
 
-### Utilities
+## Utilities
 
 - [Gifgen](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 - [Gifify](https://github.com/jclem/gifify) - convert screen recording into GIF
@@ -71,13 +71,13 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [gifski](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
 - [Gifcurry](https://github.com/lettier/gifcurry) - Open-source, Haskell-built editor for GIF makers.
 
-### Libraries
+## Libraries
 
-#### ActionScript
+### ActionScript
 
 - [Flash Animated GIF Library](https://github.com/theturtle32/Flash-Animated-GIF-Library) - AS3 library for playing Animated GIFs in Flash
 
-#### C++
+### C++
 
 - [Node-gif](https://github.com/pkrumins/node-gif) - C++ library to make GIF
 - [Gif-h](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs
@@ -91,11 +91,11 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [XamlAnimatedGif](https://github.com/thomaslevesque/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone)
 - [AnimatedGif](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs
 
-#### Haxe
+### Haxe
 
 - [Gif](https://github.com/snowkit/gif) - Haxe GIF encoder
 
-#### Java
+### Java
 
 - [Android-gif-drawable](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android
 - [gifanimateddrawable](https://github.com/Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable
@@ -107,7 +107,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [GIFDroid](https://github.com/curtislarson/GIFDroid) - Android video to GIF converter
 - [Android-GifStitch](https://github.com/CaptPhunkosis/Android-GifStitch) - create and share animated GIFs
 
-#### JavaScript
+### JavaScript
 
 - [Gif.js](https://github.com/jnordberg/gif.js) - create GIF from the DOM
 - [Omggif](https://github.com/deanm/omggif) - GIF 89a encoder and decoder
@@ -122,13 +122,13 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [GifgifLab-face](https://github.com/Viral-MediaLab/gifgifLab-face) - Facial-emotion detectors
 - [node-youtube](https://github.com/javascipt/node-youtube) - YouTube to snapshots and GIFs.
 
-#### PHP
+### PHP
 
 - [GifCreator](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images
 - [Spacer.gif](https://github.com/msng/spacer.gif) - PHP script offering spacer.gif 1x1
 - [GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF
 
-#### Objective-C
+### Objective-C
 
 - [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - decodes an UIImage from Animated GIFs image data
 - [UIimage from GIF](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs
@@ -143,13 +143,13 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [AnimatedGifExample](https://github.com/kasatani/AnimatedGifExample) - iOS animated and transparent GIFs
 - [OLImageView](https://github.com/dtorres/OLImageView) - iOS OLImage and OLImageView support for animated GIFs
 
-#### Swift
+### Swift
 
 - [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine
 - [Gifu](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift
 - [SwiftGif](https://github.com/swiftgif/SwiftGif) - UIImage extension with GIF support
 
-### GUI
+## GUI
 
 - [Glyph](http://www.glyph.video/) - tool for generating seamlessly looping GIFs and cinemagraphs from videos
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
@@ -158,30 +158,30 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [GifPro](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
 - [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
 
-### Hosting
+## Hosting
 
 - [Gfycat](https://gfycat.com) - Maximum GIF/video length: 15 seconds.  Maximum file upload is 300Mb
 - [Imgur](https://imgur.com) - Maximum file upload is 50MB
 
-### Online Tools
+## Online Tools
 
 - [Vid2gif](https://imgur.com/vidgif) - Video to GIF by imgur
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor
 - [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs
 
-### Community
+## Community
 
 - [Giphy.com](https://giphy.com)
 - [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
 
-### Niche
+## Niche
 
 - [Starwars-dot-gif](https://github.com/LindseyB/starwars-dot-gif) - Python script to generate GIFs from star wars
 
-### Scripts
+## Scripts
 
-#### Frames to GIF
+### Frames to GIF
 
 FFmpeg
 ```bash
@@ -225,7 +225,7 @@ fi
 From [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo), [source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh)
 
 
-#### GIF to frames
+### GIF to frames
 
 ```bash
 ffmpeg -i video.mpg image%d.jpg
@@ -234,7 +234,7 @@ ffmpeg -i video.mpg image%d.jpg
 convert -coalesce animated.gif image%05d.png
 ```
 
-#### High quality GIF
+### High quality GIF
 
 with ffmpeg / based on this [article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
@@ -257,13 +257,13 @@ ffmpeg -ss $start_time -t $duration -i input.avi -i palette.png -filter_complex 
 "fps=10,scale=320:-1:flags=lanczos[x];[x][1:v]paletteuse" output.gif
 ```
 
-#### Optimize GIF
+### Optimize GIF
 
 ```
 convert -layers Optimize output.gif output_optimized.gif
 ```
 
-#### Lossy GIF Compressor
+### Lossy GIF Compressor
 
 ```bash
 ./gifsicle -O3 --lossy=80 -o lossy-compressed.gif input.gif
@@ -272,7 +272,7 @@ convert -layers Optimize output.gif output_optimized.gif
 [Lossy Gif](https://kornel.ski/lossygif)
 
 
-#### Making GIF from video
+### Making GIF from video
 
 ```python
 from moviepy.editor import *
@@ -285,7 +285,7 @@ clip.write_gif("output.gif")
 ```
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#converting-a-video-excerpt-into-a-gif)
 
-#### Cinemagraphs
+### Cinemagraphs
 
 Freezing a region
 
@@ -317,7 +317,7 @@ ffmpeg \
 " -an output.mp4
 ```
 
-#### Perfect Loop
+### Perfect Loop
 
 ```python
 import moviepy.editor as mp
@@ -332,7 +332,7 @@ selected_scenes.write_gifs(clip.resize(width=450), "./outputs_directory")
 ```
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 
-#### YouTube video to GIF
+### YouTube video to GIF
 
 - Download it via youtube-dl and then convert it.
 
@@ -342,7 +342,7 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 [Youtube-dl](https://rg3.github.io/youtube-dl/)
 
-#### Grabbing each frame of an HTML5 Canvas
+### Grabbing each frame of an HTML5 Canvas
 
 Using [PhantomJS](https://phantomjs.org).
 
@@ -374,7 +374,7 @@ function(status) {
 });
 ```
 
-### Miscellaneous
+## Miscellaneous
 
 - [Why is the GIF I created so slow?](https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967) - Using ImageMagick to solve problems concerning GIF speed.
 
@@ -382,9 +382,13 @@ function(status) {
 
 The best ways to use this list are:
 
-- by browing the [contents](#contents)
-- by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
+- By browing the [contents](#contents).
+- By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
-Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872):
+## Credits
 
-- Copyright © 2015-2016 [Ismail Baaj](http://ismailbaaj.fr).
+By [Craig Davison](https://davison.io).
+
+Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872) by [Ismail Baaj](https://ismailbaaj.fr).
+
+- Copyright © 2015-2016 .
