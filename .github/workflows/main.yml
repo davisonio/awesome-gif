@@ -13,8 +13,8 @@ jobs:
         with:
           fetch-depth: 0
       - run: npx awesome-lint
-      - uses: actions/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6.x
+          ruby-version: 2.7
       - run: gem install awesome_bot
       - run: awesome_bot readme.md --white-list awesome.re
