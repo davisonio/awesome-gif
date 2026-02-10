@@ -158,6 +158,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Online Tools
 
+- [VideoGIF](https://videogif.app) - Modern video to gif converter with trim/crop.
 - [Vid2gif](https://imgur.com/vidgif) - Video to GIF by imgur.
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
 - [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs.
