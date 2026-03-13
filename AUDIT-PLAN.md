@@ -69,21 +69,32 @@ All 34 GitHub repository links returned HTTP 200 - none are dead or moved. Howev
 | [gif.js](https://github.com/jnordberg/gif.js) | 4,962 | 2023-10 | Keep - high stars, widely used, de facto standard |
 | [Animated_GIF](https://github.com/sole/Animated_GIF) | 228 | 2024-02 | Flag - 2+ yrs stale |
 | [gifify](https://github.com/jclem/gifify) | 1,137 | 2024-02 | Flag - 2+ yrs stale |
+| [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) | 680 | 2023-05 | Keep - superseded by XamlAnimatedGif but still usable |
+| [omggif](https://github.com/deanm/omggif) | 744 | 2019-07 | Keep - solid low-level encoder, "complete" project |
+| [gifencoder](https://github.com/eugeneware/gifencoder) | 477 | 2021-05 | Flag - 4+ yrs stale |
+| [GifCreator](https://github.com/Sybio/GifCreator) | 326 | 2021-09 | Flag - 4+ yrs stale |
 
-#### Active Repositories (healthy)
+#### Active Repositories (pushed within last year)
 | Entry | Stars | Last Push |
 |-------|-------|-----------|
-| [gifski](https://github.com/ImageOptim/gifski) | 5,437 | 2026-02 |
-| [android-gif-drawable](https://github.com/koral--/android-gif-drawable) | 9,660 | 2026-02 |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 150,896 | 2026-03 |
+| [android-gif-drawable](https://github.com/koral--/android-gif-drawable) | 9,660 | 2026-02 |
+| [gifski](https://github.com/ImageOptim/gifski) | 5,437 | 2026-02 |
 | [GIFit](https://github.com/takempf/GIFit) | 134 | 2026-03 |
+| [msf_gif](https://github.com/notnullnotvoid/msf_gif) | 230 | 2025-09 |
+| [Gifu](https://github.com/kaishin/gifu) | 3,218 | 2025-08 |
 | [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) | 462 | 2025-06 |
+| [gifplayer](https://github.com/rubentd/gifplayer) | 461 | 2025-03 |
+
+#### Stale Repositories (1-2 years since last push)
+| Entry | Stars | Last Push |
+|-------|-------|-----------|
+| [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) | 2,286 | 2024-12 |
 | [gif-h](https://github.com/charlietangora/gif-h) | 536 | 2024-07 |
+| [AnimatedGif](https://github.com/mrousavy/AnimatedGif) | 154 | 2024-04 |
 | [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) | 7,980 | 2024-03 |
 
-#### Could Not Verify (API rate-limited)
-These repos returned 200 on HTTP check but I couldn't get metadata:
-- `notnullnotvoid/msf_gif`, `XamlAnimatedGif/WpfAnimatedGif`, `deanm/omggif`, `rubentd/gifplayer`, `eugeneware/gifencoder`, `Sybio/GifCreator`, `alexiscreuzot/SwiftyGif`, `kaishin/gifu`
+**Overall: 22 of 34 repos (65%) are unmaintained or archived.**
 
 ### Non-GitHub Links
 Non-GitHub links could not be reliably tested from this environment (network restrictions). The following should be manually verified:
@@ -132,7 +143,7 @@ Non-GitHub links could not be reliably tested from this environment (network res
 | **tty2gif** (160 stars, 2+ yrs stale) | Niche. asciinema/agg may be better alternatives. |
 | **GifImageView** (1,174 stars, 2+ yrs stale) | Superseded by android-gif-drawable and modern Compose approaches. |
 | **GIFit** (134 stars, active) | Low stars for its age. Chrome extension to make GIF from YouTube - yt-dlp + ffmpeg does this better. |
-| **Gifplayer** (unknown stars) | jQuery plugin - jQuery is declining. Need to verify relevance. |
+| **Gifplayer** (461 stars, active) | jQuery plugin - jQuery is declining. Active but niche. |
 | **Animated_GIF** (228 stars, 2+ yrs stale) | Low stars. Overlaps with gif.js. |
 
 ### Entries That Are Fine
@@ -145,9 +156,14 @@ Non-GitHub links could not be reliably tested from this environment (network res
 | **gif.js** (4,962 stars) | De facto standard for browser GIF creation. |
 | **android-gif-drawable** (9,660 stars, active) | Dominant Android GIF library. |
 | **FLAnimatedImage** (7,980 stars) | Standard iOS GIF engine by Flipboard. |
-| **SwiftyGif, Gifu** | Solid Swift GIF libraries. |
+| **SwiftyGif** (2,286 stars, stale) | Solid Swift GIF library. Last push Dec 2024. |
+| **Gifu** (3,218 stars, active) | Strong Swift GIF library, actively maintained. |
 | **gif-h** (536 stars) | Useful single-header C++ library. |
-| **omggif** | Solid low-level GIF encoder/decoder. |
+| **msf_gif** (230 stars, active) | Active C/C++ single-header GIF library. |
+| **omggif** (744 stars) | Solid low-level GIF encoder/decoder. |
+| **WpfAnimatedGif** (680 stars, unmaintained) | Decent stars, superseded by XamlAnimatedGif. |
+| **gifencoder** (477 stars, unmaintained) | Node.js GIF generation. Stale since 2021 but functional. |
+| **GifCreator** (326 stars, unmaintained) | PHP GIF creation. Stale since 2021 but functional. |
 | **gifgen** (563 stars) | Simple, focused utility. |
 | **EzGif** | Well-known, widely-used online tool. |
 | **Giphy, /r/educationalgifs** | Key community resources. |
