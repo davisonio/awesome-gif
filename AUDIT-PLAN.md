@@ -160,36 +160,47 @@ Non-GitHub links could not be reliably tested from this environment (network res
 
 ### Strong Recommendations (should definitely be added)
 
-| Project | URL | Description | Why Awesome |
-|---------|-----|-------------|-------------|
-| **gifsicle** | https://github.com/kohler/gifsicle | Command-line tool for creating, editing, and optimizing GIFs. | Industry standard GIF manipulation tool. Already referenced in Scripts section but not listed as a tool! |
-| **ScreenToGif** | https://github.com/NickeManarin/ScreenToGif | Screen, webcam, and sketchboard recorder with integrated editor. | 24k+ stars. Best-in-class Windows GIF recorder. |
-| **LICEcap** | https://www.cockos.com/licecap/ | Simple animated screen capture tool for Windows/macOS. | Legendary lightweight GIF recorder. Widely used. |
-| **Peek** | https://github.com/phw/peek | Simple animated GIF screen recorder for Linux. | 10k+ stars. The go-to Linux GIF recorder. |
-| **ShareX** | https://github.com/ShareX/ShareX | Screen capture, file sharing and productivity tool with GIF recording. | 31k+ stars. Hugely popular. |
-| **Pillow** | https://github.com/python-pillow/Pillow | Python Imaging Library with GIF read/write support. | 12k+ stars. The standard Python image library. Belongs in Libraries > Python. |
-| **image (Go)** | https://pkg.go.dev/image/gif | Go standard library GIF package. | Go's built-in GIF support. Belongs in Libraries > Go. |
-| **Tenor** | https://tenor.com | GIF search engine and sharing platform (owned by Google). | Major GIF platform, used in messaging apps everywhere. Belongs in Hosting/Community. |
-| **asciinema](https://github.com/asciinema/asciinema) + [agg** | https://github.com/asciinema/agg | Terminal session recorder + GIF renderer. | Modern replacement for tty2gif. agg renders to GIF. |
+| Project | URL | Description | Stars | Why Awesome |
+|---------|-----|-------------|-------|-------------|
+| **gifsicle** | https://github.com/kohler/gifsicle | Command-line tool for creating, editing, and optimizing GIFs. | ~3.7k | Industry standard GIF manipulation tool. Already referenced in Scripts section but not listed as a tool! Glaring omission. |
+| **ScreenToGif** | https://github.com/NickeManarin/ScreenToGif | Screen, webcam, and sketchboard recorder with integrated editor. | ~26.5k | Best-in-class Windows GIF recorder/editor. |
+| **LICEcap** | https://github.com/justinfrankel/licecap | Simple animated screen capture tool for Windows/macOS. | ~5.5k | Classic, lightweight, focused GIF recorder. |
+| **Peek** | https://github.com/phw/peek | Simple animated GIF screen recorder for Linux. | ~10.5k | The go-to Linux GIF recorder. **Note: deprecated** (Jan 2023) due to Wayland compatibility. Still widely used. Your call on including deprecated tools. |
+| **ShareX** | https://github.com/ShareX/ShareX | Screen capture, file sharing and productivity tool with GIF recording. | ~35.8k | Most-starred screen capture tool on GitHub. |
+| **vhs** | https://github.com/charmbracelet/vhs | CLI tool for creating terminal GIFs from declarative `.tape` scripts. | ~17.5k | Modern, elegant, CI-friendly terminal-to-GIF recorder by Charmbracelet. |
+| **Pillow** | https://github.com/python-pillow/Pillow | Python Imaging Library with GIF read/write support. | ~12k | The standard Python image library. Belongs in Libraries > Python. |
+| **GIFLIB** | https://giflib.sourceforge.net/ | Foundational C library for GIF encoding/decoding, in use since 1989. | N/A | Used by Mosaic (first graphical browser). Extremely mature, speaks GIF87a and GIF89a. Belongs in Libraries > C. |
+| **Tenor** | https://tenor.com | GIF search engine and sharing platform (owned by Google). | N/A | Major GIF platform, used in messaging apps everywhere. **Caveat**: Tenor API for third-party devs sunsetting Sept 2026, but platform continues. |
+| **agg** | https://github.com/asciinema/agg | Converts asciinema terminal recordings to animated GIFs using gifski. | ~1.6k | Modern Rust-based replacement for tty2gif. |
+| **r/HighQualityGifs** | https://www.reddit.com/r/HighQualityGifs/ | Subreddit for creating and sharing high-quality GIFs. | N/A | Major GIF creation community. Very active. |
+| **r/perfectloops** | https://www.reddit.com/r/perfectloops/ | Subreddit for seamlessly looping GIFs. | N/A | Directly relevant to the "Perfect Loop" scripts section. |
 
 ### Good Recommendations (worth considering)
 
-| Project | URL | Description | Why Awesome |
-|---------|-----|-------------|-------------|
-| **vhs** | https://github.com/charmbracelet/vhs | CLI tool for creating terminal GIFs from a script. | 15k+ stars. Modern, elegant terminal-to-GIF tool. |
-| **Lottie** | https://github.com/airbnb/lottie-web | Render After Effects animations (can export to GIF). | Widely used animation library. Tangentially related. |
-| **SDWebImage** | https://github.com/SDWebImage/SDWebImage | Async image loading with GIF support for iOS/macOS. | 25k+ stars. Major iOS image library with GIF support. |
-| **Glide** | https://github.com/bumptech/glide | Android image loading with GIF support. | 35k+ stars. Standard Android image loader. |
-| **sharp** | https://github.com/lovell/sharp | High-performance Node.js image processing (GIF support via libvips). | 29k+ stars. De facto Node.js image processor. |
-| **imageio** | https://github.com/imageio/imageio | Python library for reading and writing image data including GIFs. | Complements Pillow for GIF I/O. |
-| **Gifox** | https://gifox.app | macOS GIF recording app. | Popular paid alternative to Kap on macOS. |
+| Project | URL | Description | Stars | Why Awesome |
+|---------|-----|-------------|-------|-------------|
+| **t-rec** | https://github.com/sassman/t-rec-rs | Terminal recorder in Rust that generates animated GIFs directly. | ~1.2k | Idle frame detection, wallpaper/shadow effects. |
+| **SDWebImage** | https://github.com/SDWebImage/SDWebImage | Async image loading with GIF support for iOS/macOS. | ~25k | Major iOS image library with GIF support. |
+| **Glide** | https://github.com/bumptech/glide | Android image loading with GIF support. | ~35k | Standard Android image loader. |
+| **Coil** | https://coil-kt.github.io/coil/gifs/ | Kotlin-first Android image loader with built-in GIF/animated WebP/HEIF support. | ~11k | Modern Kotlin-native replacement for Glide. |
+| **image-gif (Rust)** | https://github.com/image-rs/image-gif | Standard Rust GIF encoder/decoder crate. | N/A | Part of the image-rs ecosystem. |
+| **image/gif (Go)** | https://pkg.go.dev/image/gif | Go standard library GIF package. | N/A | Built-in GIF support, no third-party dependency needed. |
+| **sharp** | https://github.com/lovell/sharp | High-performance Node.js image processing (GIF support via libvips). | ~29k | De facto Node.js image processor. |
+| **imageio** | https://github.com/imageio/imageio | Python library for reading and writing image data including GIFs. | N/A | Complements Pillow for GIF I/O. |
+| **pygifsicle** | https://github.com/LucaCappelletti94/pygifsicle | Python wrapper for gifsicle. | N/A | Enables GIF optimization from Python, ~3x file size reduction. |
+| **Gifox** | https://gifox.app | macOS GIF recording app. | N/A | Popular paid alternative to Kap on macOS. |
+| **Lottie** | https://github.com/airbnb/lottie-web | Render After Effects animations natively (modern GIF alternative). | ~30k | Tangentially related - could go in a "GIF Alternatives" note. |
+| **GIF89a Specification** | https://www.w3.org/Graphics/GIF/spec-gif89a.txt | The official GIF89a format specification. | N/A | Foundational reference. Could go in Miscellaneous. |
+
+### Also Notable: Gfycat shut down (Sept 2023). Do NOT add, but worth knowing.
 
 ### New Sections to Consider
 - **Libraries > Python** - Currently missing entirely despite Python being heavily used for GIF work (Pillow, imageio).
+- **Libraries > C** - GIFLIB is the foundational GIF library used since 1989.
 - **Libraries > Go** - Go has built-in GIF support in its standard library.
-- **Libraries > Rust** - gifski is Rust-based; could add the `image` crate.
-- **Libraries > Kotlin** - Android ecosystem has moved to Kotlin; consider Coil's GIF support.
-- **Specifications / Standards** - Link to the GIF89a specification, W3C references.
+- **Libraries > Rust** - gifski is Rust-based; could add the `image-gif` crate.
+- **Libraries > Kotlin** - Android ecosystem has moved to Kotlin; Coil has GIF support.
+- **Specifications / Standards** - Link to the GIF89a specification.
 
 ---
 
@@ -261,17 +272,28 @@ Non-GitHub links could not be reliably tested from this environment (network res
 8. **Giflr** / **GIF Frame Extractor** - unknown provenance, need verification
 
 #### Additions (projects I recommend adding - say yes/no to each):
-1. **gifsicle** - in General Tools or Utilities
-2. **ScreenToGif** - in GUI (replaces Qgifer)
-3. **LICEcap** - in GUI
-4. **Peek** - in GUI or Utilities
-5. **ShareX** - in GUI or Utilities
-6. **Pillow** - new Libraries > Python section
-7. **Tenor** - in Hosting or Community
-8. **vhs** - in Utilities (terminal GIF recorder)
-9. **asciinema/agg** - in Utilities (replaces tty2gif concept)
-10. **SDWebImage** - in Libraries > Objective-C/Swift
-11. **Glide** - in Libraries > Java/Kotlin
+
+**Strong (I'd add all of these):**
+1. **gifsicle** (~3.7k stars) - in General Tools or Utilities
+2. **ScreenToGif** (~26.5k stars) - in GUI (replaces Qgifer)
+3. **ShareX** (~35.8k stars) - in GUI or Utilities
+4. **vhs** (~17.5k stars) - in Utilities (modern terminal-to-GIF)
+5. **LICEcap** (~5.5k stars) - in GUI
+6. **Peek** (~10.5k stars, deprecated) - in GUI or Utilities
+7. **Pillow** (~12k stars) - new Libraries > Python section
+8. **GIFLIB** (foundational since 1989) - new Libraries > C section
+9. **Tenor** - in Hosting or Community
+10. **agg** (~1.6k stars) - in Utilities (modern tty2gif replacement)
+11. **r/HighQualityGifs** - in Community
+12. **r/perfectloops** - in Community
+
+**Good (worth considering):**
+13. **SDWebImage** (~25k stars) - in Libraries > Objective-C/Swift
+14. **Glide** (~35k stars) - in Libraries > Java
+15. **Coil** (~11k stars) - new Libraries > Kotlin section
+16. **image-gif** (Rust crate) - new Libraries > Rust section
+17. **sharp** (~29k stars) - in Libraries > JavaScript
+18. **GIF89a Specification** - in Miscellaneous
 
 #### Structural changes:
 1. Merge **GUI** into **Utilities** (or expand GUI with ScreenToGif/LICEcap/Peek)?
