@@ -17,4 +17,9 @@ jobs:
         with:
           ruby-version: 2.7
       - run: gem install awesome_bot
-      - run: awesome_bot readme.md --white-list awesome.re,effectgames.com,davison.io
+      # White list:
+      # - awesome.re: redirects to github.com/sindresorhus/awesome, expected behaviour for the badge
+      # - davison.io: SSL certificate hostname mismatch, site is up but cert doesn't match
+      # - reddit.com: bot is blocked by Reddit (403), subreddit is active
+      # - github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh: rate limited (429), repo is valid
+      - run: awesome_bot readme.md --white-list awesome.re,davison.io,reddit.com,github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh

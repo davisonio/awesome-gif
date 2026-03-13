@@ -37,7 +37,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## General Tools
 
 - [FFmpeg](https://www.ffmpeg.org)
-- [ImageMagick](http://www.imagemagick.org/script/index.php)
+- [ImageMagick](https://imagemagick.org/script/index.php)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - Usually faster than ImageMagick.
 - [MoviePy](https://zulko.github.io/moviepy/) - Python module for video editing.
 
@@ -48,7 +48,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Screengif](https://github.com/dergachev/screengif) - Create animated GIF screencasts.
 - [Gifline](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails.
 - [Tty2gif](https://github.com/z24/tty2gif) - Record scripts and their outputs into both binary and GIF formats.
-- [Gifit](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video.
+- [Gifit](https://github.com/takempf/GIFit) - Chrome extension to make a GIF from a YouTube video.
 - [Ccapture.js](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas.
 - [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
 - [gifski](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
@@ -100,12 +100,11 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ### Swift
 
-- [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine.
+- [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) - High performance & easy to use Gif engine.
 - [Gifu](https://github.com/kaishin/gifu) - Animated GIF support for iOS in Swift.
 
 ## GUI
 
-- [Glyph](http://www.glyph.video/) - Tool for generating seamlessly looping GIFs and cinemagraphs from videos.
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
 
 ## Hosting
@@ -114,7 +113,6 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 
 ## Online Tools
 
-- [Vid2gif](https://imgur.com/vidgif) - Video to GIF by imgur.
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
 - [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs.
 - [GIF Frame Extractor](https://giftoframes.org/) - Convert animated GIFs into individual frames online.
