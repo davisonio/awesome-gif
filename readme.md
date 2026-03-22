@@ -53,6 +53,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
 - [gifski](https://github.com/ImageOptim/gifski) - High-quality GIF encoder based on libimagequant.
 - [Gifcurry](https://github.com/lettier/gifcurry) - Open-source, Haskell-built editor for GIF makers.
+- [Pagecast](https://github.com/mcpware/pagecast) - MCP server that records browser pages as GIF or video — AI assistants can record browser sessions with interactions and export optimized GIFs using Playwright and ffmpeg.
 
 ## Libraries
 
