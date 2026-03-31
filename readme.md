@@ -116,6 +116,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
 - [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs.
 - [GIF Frame Extractor](https://giftoframes.org/) - Convert animated GIFs into individual frames online.
+- [trimmr](https://trimmr.xyz/) - Open-source browser editor for GIFs and short videos with local-only processing. ([source](https://github.com/sjkelleyjr/trimmr)) `OSS`
 
 ## Community
 
