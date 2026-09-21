@@ -37,7 +37,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## General Tools
 
 - [FFmpeg](https://www.ffmpeg.org)
-- [ImageMagick](https://imagemagick.org/script/index.php)
+- [ImageMagick](https://imagemagick.org/)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - Usually faster than ImageMagick.
 - [MoviePy](https://zulko.github.io/moviepy/) - Python module for video editing.
 
