@@ -1,0 +1,28 @@
+name: Link check
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+jobs:
+  link_check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      # Excluded hosts:
+      # - davison.io: SSL certificate hostname mismatch, site is up but cert doesn't match
+      # - reddit.com: bot is blocked by Reddit (403), subreddit is active
+      # 429 (rate limited) is accepted as alive.
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --accept 200..=299,429
+            --exclude davison\.io
+            --exclude reddit\.com
+            readme.md contributing.md
+          fail: true
