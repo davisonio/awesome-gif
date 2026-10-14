@@ -37,7 +37,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## General Tools
 
 - [FFmpeg](https://www.ffmpeg.org)
-- [ImageMagick](https://imagemagick.org/script/index.php)
+- [ImageMagick](https://imagemagick.org/)
 - [GraphicsMagick](http://www.graphicsmagick.org/) - Usually faster than ImageMagick.
 - [MoviePy](https://zulko.github.io/moviepy/) - Python module for video editing.
 
@@ -61,9 +61,9 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Gif-h](https://github.com/charlietangora/gif-h) - C++ one-header library for the creation of animated GIFs.
 - [msf_gif](https://github.com/notnullnotvoid/msf_gif) - C/C++ single-header library for creating animated GIFs.
 
-<h3 id="c-sharp">C#</h2>
+<h3 id="c-sharp">C#</h3>
 
-- [dot-screencap](https://github.com/Speiser/dot-screencap) - A simple libary to record your screen and save it as animated GIF.
+- [dot-screencap](https://github.com/Speiser/dot-screencap) - A simple library to record your screen and save it as animated GIF.
 - [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif) - A simple library to display animated GIF images in WPF.
 - [XamlAnimatedGif](https://github.com/XamlAnimatedGif/XamlAnimatedGif) - A simple library to display animated GIF images in XAML apps (WPF, WinRT, Windows Phone).
 - [AnimatedGif](https://github.com/mrousavy/AnimatedGif) - A high performance .NET library for reading and creating animated GIFs.
@@ -295,8 +295,8 @@ yt-dlp https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 The best ways to use this list are:
 
-- By browing the [contents](#contents).
-- By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
+- By browsing the [contents](#contents).
+- By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents.
 
 ## Credits
 
