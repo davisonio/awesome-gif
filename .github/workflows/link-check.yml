@@ -15,6 +15,7 @@ jobs:
       # Excluded hosts:
       # - davison.io: SSL certificate hostname mismatch, site is up but cert doesn't match
       # - reddit.com: bot is blocked by Reddit (403), subreddit is active
+      # - superuser.com: Stack Exchange returns 403 to bots, the answer is live
       # 429 (rate limited) is accepted as alive.
       - uses: lycheeverse/lychee-action@v2
         with:
@@ -24,5 +25,6 @@ jobs:
             --accept 200..=299,429
             --exclude davison\.io
             --exclude reddit\.com
+            --exclude superuser\.com
             readme.md contributing.md
           fail: true

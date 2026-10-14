@@ -33,4 +33,4 @@ Not applicable (no code): 0 tests -> 0 tests.
 - All github.com links (about 40) returned 403 through this sandbox's proxy, so they could not be checked here. The first lychee run in CI will check them.
 - `https://giflr.com/` timed out on both HTTP and HTTPS from the sandbox; it may be dead. If CI confirms that, remove it or find a replacement.
 - `https://giftoframes.org/` answered over HTTP but the HTTPS tunnel dropped here. It is probably fine, but check the lychee result.
-- giphy.com, sourceforge.net, superuser.com and reddit.com returned 403 to the bot. If lychee flags any of them in CI, add an `--exclude` for it.
+- giphy.com and sourceforge.net returned 403 to the bot here. If lychee flags either of them in CI, add an `--exclude` for it. superuser.com (Stack Exchange) also returns 403 to bots, so it is now excluded alongside reddit.com.
