@@ -114,6 +114,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
+- [VideoKit](https://www.videokit.cc/en) - Convert video to GIF, GIF to video and images to GIF in the browser, with control over width, frame rate and quality.
 
 ## Community
 
