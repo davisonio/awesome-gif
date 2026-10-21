@@ -114,6 +114,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
+- [BatchSet GIF Compressor](https://batchset.com/tools/gif-compressor) - Compress a GIF in the browser with no upload. Sister tools on the same site resize, crop, speed up or caption a GIF and turn animated WebP into GIF.
 
 ## Community
 
