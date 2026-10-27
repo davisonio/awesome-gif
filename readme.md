@@ -114,6 +114,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
+- [EasyLottie Green Screen to GIF](https://www.easylottie.com/green-screen-to-transparent-gif) - Remove a solid green, blue, white or black background from a video or GIF and export a transparent GIF, in the browser without uploading the file.
 
 ## Community
 
