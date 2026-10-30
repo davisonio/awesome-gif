@@ -114,6 +114,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
+- [TinyGIF](https://tinygif.app/) - Browser-based GIF compressor, emote resizer and video-to-GIF converter; files are processed locally with WebAssembly, no upload.
 
 ## Community
 
