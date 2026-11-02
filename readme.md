@@ -118,6 +118,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Community
 
 - [Giphy.com](https://giphy.com)
+- [Naiwa Hub](https://naiwahub.com/) - Searchable Naiwa reaction images and complete GIFs, with English and Chinese text search.
 - [/r/educationalgifs](https://www.reddit.com/r/educationalgifs/)
 
 ## Scripts
