@@ -114,6 +114,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
+- [cv.cm GIF Maker](https://cv.cm/en/gif-maker/) - Make a GIF from pictures or a short video clip in the browser, with frame delay, size, loop and color settings. Files stay on your device and there is no watermark.
 
 ## Community
 
