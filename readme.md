@@ -114,6 +114,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
+- [Reelary Add Caption to GIF](https://reelary.app/tools/add-caption-to-gif) - Add a caption bar, meme text or subtitles to a GIF in the browser, without uploading it.
 
 ## Community
 
