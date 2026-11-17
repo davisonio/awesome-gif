@@ -114,6 +114,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
+- [GIFKit free GIF tools](https://gifkit.app/tools/) - Compress, resize and crop GIFs in the browser, with presets for Discord and Twitch emote limits. No account; files stay on your device.
 
 ## Community
 
