@@ -114,6 +114,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
+- [Video to GIF](https://bestlatestapps.com/tools/video-to-gif/) - Turn a few seconds of a video into a looping GIF in the browser, with start, length, width and frame rate settings.
 
 ## Community
 
