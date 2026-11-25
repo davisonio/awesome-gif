@@ -114,6 +114,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
+- [CompressGIF](https://compressgif.net/) - Browser-local GIF compressor with target-size presets and 12 GIF tools powered by Gifsicle and FFmpeg WASM.
 
 ## Community
 
