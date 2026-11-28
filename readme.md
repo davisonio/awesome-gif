@@ -114,6 +114,7 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 ## Online Tools
 
 - [EzGif](https://ezgif.com/) - Online GIF maker and image editor.
+- [Offline GIF Editor](https://offlinegifeditor.com/) - 100% client-side, zero-upload browser GIF editor, frame-range tool, Discord/Slack/Twitch resizer, and WebP/APNG/MP4 converter.
 
 ## Community
 
